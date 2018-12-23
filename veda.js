@@ -1,4 +1,4 @@
-import Veda from 'vedajs';
+import Veda from 'santa-sukitoku.github.io\node_modules\vedajs';
 
 const veda = new Veda();
 
