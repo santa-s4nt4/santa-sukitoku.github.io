@@ -1,12 +1,3 @@
-import Veda from 'vedajs';
-
-const veda = new Veda();
-
-veda.setCanvas(canvas);
-veda.loadFragmentShader(code);
-
-veda.play();
-
 #ifdef GL_ES
 precision mediump float;
 #endif
