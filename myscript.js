@@ -1,7 +1,7 @@
 var r;
 
 function setup() {
-        fullScreen();
+        createCanvas(windowWidth, windowHeight);
         background(255);
         rectMode(CENTER);
         frameRate(random(6, 10));
