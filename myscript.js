@@ -1,13 +1,14 @@
 var r;
 
 function setup() {
-        createCanvas(windowWidth, windowHeight);
         background(255);
         rectMode(CENTER);
         frameRate(random(6, 10));
 }
 
 function draw() {
+        let fs = fullscreen(); 
+        fullscreen(!fs);
         r = random(25, 500);
         for (var i = 0; i < 1; ++i) {
                 noFill();
