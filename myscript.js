@@ -1,7 +1,7 @@
 var r;
 
 function setup() {
-        createCanvas(windowWidth, windowHeight);
+        createCanvas(windowWidth, document.body.clientHeight);
         background(255);
         rectMode(CENTER);
         frameRate(random(6, 10));
