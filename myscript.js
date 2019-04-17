@@ -23,3 +23,7 @@ function fadeOut() {
         rectMode(CORNER);
         rect(0, 0, width, height);
 }
+
+function windowResized() {
+        resizeCanvas(windowWidth, windowHeight);
+}
