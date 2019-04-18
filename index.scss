@@ -68,6 +68,14 @@ body {
   font-family: 'Lora', serif;
 }
 
+canvas {
+    display:block; /* remove scrollbars */
+    position: absolute;  /* position at top left corner for overlay */
+    left: 0;
+    top: 0;
+    z-index: -999;
+}
+
 .page-main {
   font-size: 100%;
   position: relative;
