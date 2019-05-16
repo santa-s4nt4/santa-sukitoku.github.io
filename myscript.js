@@ -1,8 +1,7 @@
 var r;
 
 function setup() {
-        let canvas = createCanvas(windowWidth, document.body.clientHeight);
-        canvas.parent('canvas');
+        createCanvas(windowWidth, 2300);
         background(255);
         rectMode(CENTER);
         frameRate(random(6, 10));
@@ -13,7 +12,7 @@ function draw() {
         for (var i = 0; i < 1; ++i) {
                 noFill();
                 stroke(random(100, 200));
-                ellipse(random(width), random(height), r, r);
+                ellipse(random(windowWidth), random(0, 2300), r, r);
                 fadeOut();
         }
 }
@@ -22,9 +21,9 @@ function fadeOut() {
         noStroke();
         fill(255, 120);
         rectMode(CORNER);
-        rect(0, 0, width, height);
+        rect(0, 0, windowWidth, 2300);
 }
 
 function windowResized() {
-        resizeCanvas(windowWidth, windowHeight);
+        resizeCanvas(windowWidth, 2300);
 }
