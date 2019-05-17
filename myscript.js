@@ -3,10 +3,13 @@ function setup() {
 }
 
 function draw() {
+        var s = 400;
         background(0);
+        rotateX(frameCount * 0.01);
+        rotateY(frameCount * 0.01);
         noFill();
         stroke(255);
-        sphere(400);
+        sphere(s);
 }
 
 function windowResized() {
