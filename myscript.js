@@ -3,7 +3,7 @@ function setup() {
 }
 
 function draw() {
-        if (widnowsWidht > 1300) {
+        if (widnowsWidth > 1300) {
                 var s = windowWidth / 5;
                 var t = windowWidth / 20;
         } if (windowWidth <= 1300) {
