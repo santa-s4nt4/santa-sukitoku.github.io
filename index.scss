@@ -44,13 +44,17 @@ body {
     overflow-y: hidden;
     transition: 0.8s;   
     opacity: 0;
-    padding-bottom: 2%
+    padding-bottom: 2%;
 }
 
 .switchbox input:checked + label + div {
     height: auto;
     opacity: 1;
-    font-size: 85%
+    font-size: 85%;
+}
+
+.switchbox input:checked + label {
+  text-decoration: line-through;
 }
 }
 
