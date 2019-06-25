@@ -9,6 +9,8 @@ canvas {
 /* page layout */
 html, 
 body {
+  height: 100%;
+  overflow: hidden;
 }
 
 .page-main {

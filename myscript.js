@@ -4,11 +4,11 @@ function setup() {
 
 function draw() {
         var c;
-        if (windowWidth > 1300) {
+        if (windowWidth > 1080) {
                 var s = windowWidth / 5;
                 var t = windowWidth / 20;
                 c = 255;
-        } if (windowWidth <= 1300) {
+        } if (windowWidth <= 1080) {
                 var s = windowHeight / 5;
                 var t = windowHeight / 20;
                 c = 160;
