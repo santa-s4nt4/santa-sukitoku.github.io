@@ -17,7 +17,7 @@ body {
   font-family: mr-eaves-sans, sans-serif;
   padding-left: 2.5%;
   position: relative;
-  font-size: 140%;
+  font-size: 130%;
   position: relative;
   top: auto;
   color: white;
@@ -45,7 +45,7 @@ body {
 }
 
 .switchbox div {
-   font-family: mr-eaves-sans, sans-serif;
+    font-family: mr-eaves-sans, sans-serif;
     height: 0;
     overflow-y: hidden;
     transition: 0.8s;   
@@ -69,11 +69,11 @@ body {
 .footer {
   p {
     font-family: mr-eaves-sans, sans-serif;
-    font-size: 70%;
+    font-size: 80%;
     color: white;
     position: relative;
     text-align: left;
-    padding-top: 2.5%;
+    padding-top: 0.5%;
     padding-left: 2.5%;
   }
 }
