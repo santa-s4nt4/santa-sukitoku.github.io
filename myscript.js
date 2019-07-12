@@ -1,5 +1,6 @@
 function setup() {
-        createCanvas(windowWidth, windowHeight, WEBGL);
+        var h = document.documentElement.scrollHeight;
+        createCanvas(windowWidth, h, WEBGL);
 }
 
 function draw() {
