@@ -3,23 +3,25 @@ var w;
 var h;
 
 function setup() {
-        pixelDensity(1);
-        w = document.documentElement.scrollWidth;
-        h = document.documentElement.scrollHeight;
-        createCanvas(w, h, WEBGL);
-        gl = this.canvas.getContext('webgl');
-        rectMode(CENTER);
-        noStroke();
-        fill(1);
-        program = createShader(vert, frag);
+  pixelDensity(1);
+  //w = document.documentElement.scrollWidth;
+  //h = document.documentElement.scrollHeight;
+  w = windowWidth;
+  h = windowHeight;
+  createCanvas(w, h, WEBGL);
+  gl = this.canvas.getContext('webgl');
+  rectMode(CENTER);
+  noStroke();
+  fill(1);
+  program = createShader(vert, frag);
 }
 
 function draw() {
-        shader(program);
-        background(0);
-        program.setUniform('resolution', [width, height]);
-        program.setUniform('time', millis() / 1000);
-        rect(0, 0, width, height);
+  shader(program);
+  background(0);
+  program.setUniform('resolution', [width, height]);
+  program.setUniform('time', millis() / 1000);
+  rect(0, 0, width, height);
 }
 
 
@@ -97,5 +99,5 @@ void main()
 }`
 
 function windowResized() {
-        resizeCanvas(w, h);
+  resizeCanvas(w, h);
 }

@@ -1,6 +1,6 @@
 canvas {
     display: block;
-    position: absolute;
+    position: fixed;
     left: 0;
     top: 0;
     z-index: -999;
@@ -22,6 +22,10 @@ body {
   top: auto;
   color: white;
   vertical-align: middle;
+
+  label:hover{
+    text-decoration: line-through;
+  }
 
   a {
     font-family: mr-eaves-sans, sans-serif;
@@ -85,5 +89,6 @@ body {
     text-align: left;
     padding-top: 0.5%;
     padding-left: 2.5%;
+    padding-bottom: 2%;
   }
 }
