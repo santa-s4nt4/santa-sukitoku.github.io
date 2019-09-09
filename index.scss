@@ -3,18 +3,33 @@ canvas {
     position: fixed;
     left: 0;
     top: 0;
+    bottom: 0;
     z-index: -999;
+}
+
+@keyframes gradientBG {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
 }
 
 /* page layout */
 html, 
 body {
+  background-attachment: fixed;
   height: 100%;
-  overflow: hidden;
+  display: grid;
+  min-height: 100vh;
+  grid-template-columns: 100% 1fr;
 }
 
 .page-main {
-  font-family: mr-eaves-sans, sans-serif;
   padding-left: 2.5%;
   position: relative;
   font-size: 130%;
@@ -23,61 +38,125 @@ body {
   color: white;
   vertical-align: middle;
 
-  label:hover{
-    text-decoration: line-through;
+  nav {
+    position: fixed;
+    z-index: 1;
+    padding-top: 8%;
+    margin-bottom: 4%;
+    
+    .about p, .about a {
+      font-family: mr-eaves-sans, sans-serif;
+      color: white;
+      text-decoration: none ;
+      margin-top: 60%;
+    }
+    
+    .about a:hover {
+      color: #ffffff;
+      background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
+      background-size: 600% 600%;
+      animation: gradientBG 4s ease infinite;
+    }
+    
+    .portfolio p, .portfolio a {
+      font-family: mr-eaves-sans, sans-serif;
+      color: white;
+      text-decoration: none ;
+      margin-top: 60%;
+    }
+    
+    .portfolio a:hover {
+      color: #ffffff;
+      background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
+      background-size: 600% 600%;
+      animation: gradientBG 4s ease infinite;
+    }
+    
+    .diary p, .diary a {
+      font-family: mr-eaves-sans, sans-serif;
+      color: white;
+      text-decoration: none ;
+      margin-top: 60%;
+    }
+    
+    .diary a:hover {
+      color: #ffffff;
+      background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
+      background-size: 600% 600%;
+      animation: gradientBG 4s ease infinite;
+    }
+    
+    .name {
+      p {
+        font-family: mr-eaves-sans, sans-serif;
+        position: relative;
+        text-align: left;
+        font-size: 150%;
+      }
+      
+      a {
+        font-family: mr-eaves-sans, sans-serif;
+        color: white;
+        text-decoration: none ;
+      }
+      
+      a:hover {
+        color: #ffffff;
+        background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
+        background-size: 600% 600%;
+        animation: gradientBG 4s ease infinite;
+      }
+    }
   }
+}
 
-  a {
-    font-family: mr-eaves-sans, sans-serif;
-    color: white;
+@media screen and (min-width: 770px){
+  .about_page {
+    font-family: a-otf-ud-shin-go-pr6n, sans-serif;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    background: #44444483;
+  }
+  
+  .about_page p {
+    font-family: a-otf-ud-shin-go-pr6n, sans-serif;
+    text-align: left;
+    font-size: 80%;
+    color: #ffffff;
+    padding-top: 0%;
+    padding-bottom: 2%; 
+    margin-top: 8%;
+    margin-bottom: 5%;
+    padding-left: 5%;
+    margin-block-start: 2em;
+    margin-block-end: 1em;
+  }
+  .about_page a {
+    color: #ffffff;
+    padding-left: 0%;
+    padding-right: 0%;
     text-decoration: none;
   }
-
-  .name {
-    p {
-    font-family: mr-eaves-sans, sans-serif;
-    padding-top: 8%;
-    padding-bottom: 2.5%;
-    position: relative;
-    text-align: left;
-    font-size: 150%;
+  
+  .about_page a:hover {
+    text-decoration: none;
+    background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
+    background-size: 600% 600%;
+    animation: gradientBG 7.5s ease infinite;
   }
 }
 
-.switchbox input {
-    display: none;
-}
-
-.switchbox div {
-    font-family: mr-eaves-sans, sans-serif;
-    height: 0;
-    overflow-y: hidden;
-    transition: 0.8s;   
-    opacity: 0;
-    padding-bottom: 2%;
-}
-
-.switchbox input:checked + label + div {
-    font-family: mr-eaves-sans, sans-serif;  
-    height: auto;
-    opacity: 1;
-    font-size: 85%;
-}
-
-.switchbox input:checked + label {
+.title p {
   font-family: mr-eaves-sans, sans-serif;
-  text-decoration: line-through;
+  font-size: 150%;
+  padding-top: 2%;
+  padding-bottom: 0%; 
+  margin-block-start: 2em;
+  margin-block-end: 1em;
 }
 
-.about p {
-  margin-top: 1%;
-  margin-bottom: 1%;
-}
-
-.link p {
-  margin-top: 1%;
-  margin-bottom: 1%;
-}
+.title img {
+  margin-left: 7.5%;
 }
 
 .footer {
@@ -87,8 +166,10 @@ body {
     color: white;
     position: relative;
     text-align: left;
-    padding-top: 0.5%;
+    padding-top: 2.5%;
     padding-left: 2.5%;
     padding-bottom: 2%;
   }
 }
+
+/* sass --watch index.scss:index.css --style compressed */
