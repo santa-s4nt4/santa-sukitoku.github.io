@@ -247,6 +247,51 @@ body {
   margin-left: 7.5%;
 }
 
+.flexbox {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  padding-top: 7.5%;
+  margin-left: 7.5%;
+  margin-right: 7.5%;
+}
+
+.first {
+  padding-bottom: 0%;
+}
+
+.first img {
+  width: 800px;
+  height: 800px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.second img {
+  width: 400px;
+  height: 400px;
+  padding-top: 0%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.third img {
+  width: 400px;
+  height: 400px;
+  padding-top: 0%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.flexbox > div {
+  background: #ddd;
+  -webkit-box-flex: 1;
+      -ms-flex: 1 0 300px;
+          flex: 1 0 300px;
+}
+
 .footer p {
   font-family: mr-eaves-sans, sans-serif;
   font-size: 80%;
