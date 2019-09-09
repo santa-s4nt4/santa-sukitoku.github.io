@@ -131,6 +131,7 @@ body {
     margin-block-start: 2em;
     margin-block-end: 1em;
   }
+
   .about_page a {
     color: #ffffff;
     padding-left: 0%;
@@ -144,6 +145,76 @@ body {
     background-size: 600% 600%;
     animation: gradientBG 7.5s ease infinite;
   }
+
+  .skills p {
+    font-family: mr-eaves-sans, sans-serif;
+    font-size: 120%;
+    margin-bottom: 0%;
+  }
+
+  .skillsItem p {
+    font-family: a-otf-ud-shin-go-pr6n, sans-serif;
+    font-size: 80%;
+    margin-top: 0%;
+    padding-bottom: 0%;
+  }
+
+  .performances p {
+    font-family: mr-eaves-sans, sans-serif;
+    font-size: 120%;
+    margin-top: 5%;
+    margin-bottom: 0%;
+  }
+
+  .performancesItem p {
+    font-family: a-otf-ud-shin-go-pr6n, sans-serif;
+    font-size: 80%;
+    margin-top: 0%;
+    padding-bottom: 0%;
+  }
+
+  .performancesItem a {
+    padding-right: 0.3%;
+    padding-left: 0.3%;
+  }
+
+  .edu p {
+    font-family: mr-eaves-sans, sans-serif;
+    font-size: 120%;
+    margin-top: 5%;
+    margin-bottom: 0%;
+  }
+
+  .eduItem p {
+    font-family: a-otf-ud-shin-go-pr6n, sans-serif;
+    font-size: 80%;
+    margin-top: 0%;
+    padding-bottom: 0%;
+  }
+
+  .eduItem a {
+    padding-right: 0.3%;
+    padding-left: 0.3%;
+  }
+
+  .work p {
+    font-family: mr-eaves-sans, sans-serif;
+    font-size: 120%;
+    margin-top: 5%;
+    margin-bottom: 0%;
+  }
+
+  .workItem p {
+    font-family: a-otf-ud-shin-go-pr6n, sans-serif;
+    font-size: 80%;
+    margin-top: 0%;
+    padding-bottom: 0%;
+  }
+
+  .workItem a {
+    padding-right: 0.3%;
+    padding-left: 0.3%;
+  }
 }
 
 .title p {
@@ -153,6 +224,11 @@ body {
   padding-bottom: 0%; 
   margin-block-start: 2em;
   margin-block-end: 1em;
+}
+
+.title a {
+  padding-right: 0.1%;
+  padding-left: 0%;
 }
 
 .title img {
