@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="ja">
-<link rel='stylesheet' type='text/css' href='style.css'>
+<link rel='stylesheet' type='text/css' href='../style.css'>
 <link rel="shortcut icon"
         href="https://lh3.googleusercontent.com/MZPeDAzoF1rAf92dzV3XIFJYRJFYH3JlTxev8sY4a1XBjcx0kWScrFIqx_GKoSso1-UZnhM6zHz8ho8WC8C1ev3EdzNRcoX4Fk9mjw751WCF6VzEvonHTmtC5aQeqVksczAlTjSUPVo=w2400">
 
@@ -25,8 +25,8 @@
                                 h = d.documentElement, t = setTimeout(function () { h.className = h.className.replace(/\bwf-loading\b/g, "") + " wf-inactive"; }, config.scriptTimeout), tk = d.createElement("script"), f = false, s = d.getElementsByTagName("script")[0], a; h.className += " wf-loading"; tk.src = 'https://use.typekit.net/' + config.kitId + '.js'; tk.async = true; tk.onload = tk.onreadystatechange = function () { a = this.readyState; if (f || a && a != "complete" && a != "loaded") return; f = true; clearTimeout(t); try { Typekit.load(config) } catch (e) { } }; s.parentNode.insertBefore(tk, s)
                 })(document);
         </script>
+        <meta name="viewport" content="width=device-width,initial-scale=1">
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width,initial-scale=1.0">
         <title>santa</title>
 </head>
 
@@ -35,15 +35,36 @@
                 <p class="site-title"><a href="../index.html">santa</a></p>
                 <nav class="menu">
                         <ul>
-                                <li><a href="about.html">about</a></li>
-                                <li><a href="portfolio.html">portfolio</a></li>
+                                <li><a href="../about.html">about</a></li>
+                                <li><a href="../portfolio.html">portfolio</a></li>
                                 <li><a href="https://santa-sukitoku.github.io/santa-diary/">diary</a>
                                 </li>
                         </ul>
                 </nav>
-                <div class="footer">
+                <div class="caption">
+                        <p>- web page -</p>
+                </div>
+                <div class="content">
+                        <img src='https://lh3.googleusercontent.com/zPSPO3UxeugjD94Q_6dUII1qk61lfgmElGrQMo8HP3Mwc1r8h1E9IsClr2VpvOPQDu47IrkqDtFHls8rzXq84CB6ItMzfz0ylXJp7oGi6APb28ZqBXmEwRsEa2AdlBUhXUUXhTt0164=w2400'
+                                width="800" />
+                        <br><a href="https://santa-sukitoku.github.io/"></a><mark>santa-sukitoku.github.io</mark></a>
+                        <img src='https://lh3.googleusercontent.com/U6ZI9Vbi_vgp_tuJ9Yp7nZlQjx2h7yIP5Kh7dTDu4izaglwxB17cceijNjfDw3eyUMxC-sPXMbD4w5Ge2UZEBCtnxNV-kZnzC1AeBXGDF5C06Pt9I3TNhUQPZxwLg6I-FBBRc6_htG4=w2400'
+                                width="800" />
+                        <br><mark>AboutとLinkはクリックすることで詳細が閲覧できる．</mark>
+                </div>
+                <div class="item">
+                        <p>GLSLで描画した絵をp5.jsで読み込ませたweb page．
+                                <br><br>使用技術 : GLSL, p5.js, HTML, SCSS
+                                <br><br>Link : <a href="https://santa-sukitoku.github.io/"
+                                        target="_blank">santa-sukitoku.github.io</a>
+                                <br><br>Source Code : <a
+                                        href="https://github.com/santa-sukitoku/santa-sukitoku.github.io"
+                                        target="_blank">GitHub</p>
+                </div>
+                <div class="footer_content">
                         <p>© 2019 santa_sukitoku</p>
                 </div>
+        </div>
 </body>
 
 </html>

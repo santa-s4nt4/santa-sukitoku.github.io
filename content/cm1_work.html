@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="ja">
-<link rel='stylesheet' type='text/css' href='style.css'>
+<link rel='stylesheet' type='text/css' href='../style.css'>
 <link rel="shortcut icon"
         href="https://lh3.googleusercontent.com/MZPeDAzoF1rAf92dzV3XIFJYRJFYH3JlTxev8sY4a1XBjcx0kWScrFIqx_GKoSso1-UZnhM6zHz8ho8WC8C1ev3EdzNRcoX4Fk9mjw751WCF6VzEvonHTmtC5aQeqVksczAlTjSUPVo=w2400">
 
@@ -25,8 +25,8 @@
                                 h = d.documentElement, t = setTimeout(function () { h.className = h.className.replace(/\bwf-loading\b/g, "") + " wf-inactive"; }, config.scriptTimeout), tk = d.createElement("script"), f = false, s = d.getElementsByTagName("script")[0], a; h.className += " wf-loading"; tk.src = 'https://use.typekit.net/' + config.kitId + '.js'; tk.async = true; tk.onload = tk.onreadystatechange = function () { a = this.readyState; if (f || a && a != "complete" && a != "loaded") return; f = true; clearTimeout(t); try { Typekit.load(config) } catch (e) { } }; s.parentNode.insertBefore(tk, s)
                 })(document);
         </script>
+        <meta name="viewport" content="width=device-width,initial-scale=1">
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width,initial-scale=1.0">
         <title>santa</title>
 </head>
 
@@ -35,15 +35,40 @@
                 <p class="site-title"><a href="../index.html">santa</a></p>
                 <nav class="menu">
                         <ul>
-                                <li><a href="about.html">about</a></li>
-                                <li><a href="portfolio.html">portfolio</a></li>
+                                <li><a href="../about.html">about</a></li>
+                                <li><a href="../portfolio.html">portfolio</a></li>
                                 <li><a href="https://santa-sukitoku.github.io/santa-diary/">diary</a>
                                 </li>
                         </ul>
                 </nav>
-                <div class="footer">
+                <div class="caption">
+                        <p>- computer music1 work -</p>
+                </div>
+                <div class="content">
+                        <div style="padding:56.25% 0 0 0;position:relative;"><iframe
+                                        src="https://player.vimeo.com/video/347759335?autoplay=1&loop=1"
+                                        style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"
+                                        allow="autoplay; fullscreen" allowfullscreen></iframe></div>
+                        <script src="https://player.vimeo.com/api/player.js"></script>
+                        <br><mark>smart speaker - cm1-19a-a</mark>
+                        <br><img src='https://lh3.googleusercontent.com/3Nzk6qaLx8CAcnNVFhZD8xqDK4fvWBP7lg0gDNFeerhFzspV4s0oV_cA4Ogi6hNAWu-mAFutCvr6gMkFlTy7FW6uAwV-f-h19oNTThPJrluJygMSDGI3T1ydxTT2KGfdS3C9DR_IjC8=w2400'
+                                width="800" />
+                        <br><mark>smart speakerの実物</mark>
+                </div>
+                <div class="item">
+                        <p>慶應義塾大学SFCの授業であるコンピュータミュージック1の課題．
+                                <br>
+                                生活のいたるところにある"箱"は人の生活に寄り添い，普段，音楽として認識していないモノを音楽として認識させる．
+                                <br><br>
+                                - Leader : Makito Kamiishi<br>
+                                - Sound Programmer, Video Editing : あっぷるささき<br>
+                                - Sensor Engineer : santa<br>
+                                - Product Designer : Masaki Chonan</p>
+                </div>
+                <div class="footer_content">
                         <p>© 2019 santa_sukitoku</p>
                 </div>
+        </div>
 </body>
 
 </html>
