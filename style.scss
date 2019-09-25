@@ -237,7 +237,6 @@ a:visited {
         flex: 1 1 200px;
         }
 
-        
         .module img {
         width: 100%;
         transition-duration: 0.5s;
@@ -309,9 +308,54 @@ a:visited {
 }
 
 .caption p{
+        font-family: mr-eaves-sans, sans-serif;
         text-align: center;
         font-size: 180%;
         color: #000000;
+        margin-left: 7.5%;
+        margin-right: 7.5%; 
+}
+
+.subCap p {
+        font-family: a-otf-ud-shin-go-pr6n, sans-serif;
+        text-align: center;
+        font-size: 100%;
+        color: #000000;
+        margin-bottom: 7.5%;
+        margin-left: 7.5%;
+        margin-right: 7.5%; 
+}
+
+.cap p{
+        font-family: mr-eaves-sans, sans-serif;
+        text-align: center;
+        font-size: 140%;
+        color: #000000;
+}
+
+.capItem p {
+        font-family: a-otf-ud-shin-go-pr6n, sans-serif;
+        text-align: center;
+        font-size: 110%;
+        color: #000000;
+        padding-right: 1%;
+        padding-left: 1%;
+        margin-bottom: 7.5%;
+        margin-left: 7.5%;
+        margin-right: 7.5%; 
+}
+
+.capItem a {
+        text-decoration: none;
+        border-bottom: 0.1px solid #d3d3d3;
+}
+
+.capItem a:hover {
+        background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
+        background-size: 600% 600%;
+        color: #ffffff;
+        animation: gradientBG 7.5s ease infinite;
+        border-bottom: 0px;
 }
 
 .item {
@@ -325,7 +369,7 @@ a:visited {
         text-align: center;
         font-size: 0.9em;
         color: #ffffff;
-        background: #44444483;
+        background-color: #616161ab;
         padding-right: 1%;
         padding-left: 1%;
 }
@@ -334,7 +378,7 @@ a:visited {
         font-family: mr-eaves-sans, sans-serif;
         text-align: center;
         font-size: 160%;
-        color: #ffffff;
+        color: #000000;
         padding-top: 2%;
         padding-bottom: 2%; 
         margin-top: 6%;
@@ -356,38 +400,38 @@ a:visited {
         width: 80%;
 }
 
-.item {
-        text-align: center;
-}
-
 .item p {
         font-family: a-otf-ud-shin-go-pr6n, sans-serif;
-        text-align: center;
+        text-align: left;
         font-size: 1.05em;
-        color: #ffffff;
-        background: #44444483;
+        color: #000000;
         padding-top: 2%;
         padding-bottom: 2%; 
         margin-top: 8%;
         margin-bottom: 5%;
-        margin-left: 0%;
-        margin-right: 0%; 
+        margin-left: 7.5%;
+        margin-right: 7.5%; 
 }
 
 .item a {
         text-decoration: none;
         padding-left: 0.4%;
         padding-right: 0.4%;
+        color: #000000;
+        text-decoration: none;
+        border-bottom: 0.1px solid #d3d3d3;
+}
+
+.item a:visited {
+        color: #000000;
 }
 
 .item a:hover {
         background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
         background-size: 600% 600%;
         animation: gradientBG 7.5s ease infinite;
-}
-
-.item a:visited {
         color: #ffffff;
+        border-bottom: 0px;
 }
 
 .footer_content p {
