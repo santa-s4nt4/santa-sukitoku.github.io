@@ -316,32 +316,42 @@ a:visited {
         margin-right: 7.5%; 
 }
 
-.subCap p {
-        font-family: a-otf-ud-shin-go-pr6n, sans-serif;
-        text-align: center;
-        font-size: 100%;
+.capAbout p{
+        font-family: mr-eaves-sans, sans-serif;
+        text-align: left;
+        font-size: 180%;
         color: #000000;
-        margin-bottom: 7.5%;
-        margin-left: 7.5%;
+        margin-left: 18%;
         margin-right: 7.5%; 
 }
 
-.cap p{
+.subCap p {
+        font-family: a-otf-ud-shin-go-pr6n, sans-serif;
+        text-align: left;
+        font-size: 100%;
+        color: #000000;
+        margin-bottom: 7.5%;
+        margin-left: 18%;
+        margin-right: 7.5%; 
+}
+
+.about p{
         font-family: mr-eaves-sans, sans-serif;
-        text-align: center;
+        text-align: left;
         font-size: 140%;
+        margin-left: 18%;
         color: #000000;
 }
 
 .capItem p {
         font-family: a-otf-ud-shin-go-pr6n, sans-serif;
-        text-align: center;
+        text-align: left;
         font-size: 95%;
         color: #000000;
         padding-right: 1%;
         padding-left: 1%;
         margin-bottom: 7.5%;
-        margin-left: 7.5%;
+        margin-left: 18%;
         margin-right: 7.5%; 
 }
 
