@@ -212,6 +212,67 @@ a:visited {
         opacity: 1;
         transition:all 0.6s ease;
         }
+
+        .caption p{
+        font-family: mr-eaves-sans, sans-serif;
+        text-align: center;
+        font-size: 180%;
+        color: #000000;
+        margin-left: 7.5%;
+        margin-right: 7.5%; 
+        }
+
+        .capAbout p{
+        font-family: mr-eaves-sans, sans-serif;
+        text-align: center;
+        font-size: 180%;
+        color: #000000;
+        margin-left: 7.5%;
+        margin-right: 7.5%; 
+        }
+
+        .subCap p {
+        font-family: a-otf-ud-shin-go-pr6n, sans-serif;
+        text-align: center;
+        font-size: 100%;
+        color: #000000;
+        margin-bottom: 7.5%;
+        margin-left: 7.5%;
+        margin-right: 7.5%; 
+        }
+
+        .about p{
+        font-family: mr-eaves-sans, sans-serif;
+        text-align: left;
+        font-size: 140%;
+        margin-left: 7.5%;
+        color: #000000;
+        }
+
+        .capItem p {
+        font-family: a-otf-ud-shin-go-pr6n, sans-serif;
+        text-align: left;
+        font-size: 95%;
+        color: #000000;
+        padding-right: 1%;
+        padding-left: 1%;
+        margin-bottom: 7.5%;
+        margin-left: 7.5%;
+        margin-right: 7.5%; 
+        }
+
+        .capItem a {
+        text-decoration: none;
+        border-bottom: 0.1px solid #d3d3d3;
+        }
+
+        .capItem a:hover {
+        background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
+        background-size: 600% 600%;
+        color: #ffffff;
+        animation: gradientBG 7.5s ease infinite;
+        border-bottom: 0px;
+        }
 }
 
 @media screen and (min-width: 770px){
@@ -298,34 +359,26 @@ a:visited {
         opacity: 1;
         transition:all 0.6s ease;
         }
-}
 
-/* If Grid is supported, remove the margin we set for the fallback */
-@supports (display: grid) {
-        .module {
-                margin: 0;
+        .caption p{
+        font-family: mr-eaves-sans, sans-serif;
+        text-align: center;
+        font-size: 180%;
+        color: #000000;
+        margin-left: 7.5%;
+        margin-right: 7.5%; 
         }
-}
 
-.caption p{
+        .capAbout p{
         font-family: mr-eaves-sans, sans-serif;
         text-align: center;
         font-size: 180%;
         color: #000000;
         margin-left: 7.5%;
         margin-right: 7.5%; 
-}
+        }
 
-.capAbout p{
-        font-family: mr-eaves-sans, sans-serif;
-        text-align: center;
-        font-size: 180%;
-        color: #000000;
-        margin-left: 7.5%;
-        margin-right: 7.5%; 
-}
-
-.subCap p {
+        .subCap p {
         font-family: a-otf-ud-shin-go-pr6n, sans-serif;
         text-align: left;
         font-size: 100%;
@@ -333,17 +386,17 @@ a:visited {
         margin-bottom: 7.5%;
         margin-left: 18%;
         margin-right: 7.5%; 
-}
+        }
 
-.about p{
+        .about p{
         font-family: mr-eaves-sans, sans-serif;
         text-align: left;
         font-size: 140%;
         margin-left: 18%;
         color: #000000;
-}
+        }
 
-.capItem p {
+        .capItem p {
         font-family: a-otf-ud-shin-go-pr6n, sans-serif;
         text-align: left;
         font-size: 95%;
@@ -353,20 +406,29 @@ a:visited {
         margin-bottom: 7.5%;
         margin-left: 18%;
         margin-right: 7.5%; 
-}
+        }
 
-.capItem a {
+        .capItem a {
         text-decoration: none;
         border-bottom: 0.1px solid #d3d3d3;
-}
+        }
 
-.capItem a:hover {
+        .capItem a:hover {
         background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
         background-size: 600% 600%;
         color: #ffffff;
         animation: gradientBG 7.5s ease infinite;
         border-bottom: 0px;
+        }
 }
+
+/* If Grid is supported, remove the margin we set for the fallback */
+@supports (display: grid) {
+        .module {
+                margin: 0;
+        }
+}
+
 
 .item {
         text-align: center;
