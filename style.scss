@@ -142,40 +142,36 @@ a:visited {
 
 @media screen and (max-width: 768px){
         .module {
-        margin: 0 auto;
-        overflow: hidden;
-        cursor: pointer;
-
-        /* Demo-Specific Styles */
-        align-self: center;
-        align-content: center;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        height: 100%;
-        width: 100%;
-        position: relative;
-
+                margin: 0 auto;
+                overflow: hidden;
+                cursor: pointer;
+                align-self: center;
+                align-content: center;
+                display: flex;
+                align-items: center;
+                justify-content: center;height: 100%;
+                width: 100%;
+                position: relative;
         }
 
         .module img {
-        width: 80%;
-        transition-duration: 0.5s;
+                width: 80%;
+                transition-duration: 0.5s;
         }
 
         .module .cap p {
-	font-family: mr-eaves-sans, sans-serif;
-        font-size: 100%;
-        color: #ffffff;
-        position: relative;
-        top: 50%;
-        left: 50%;
-        -ms-transform: translate(-50%,-50%);
-        -webkit-transform: translate(-50%,-50%);
-        transform: translate(-50%,-50%);
-        margin:0;
-        margin-top: 4%;
-        padding:0;   
+                font-family: mr-eaves-sans, 
+                sans-serif;font-size: 100%;
+                color: #ffffff;
+                position: relative;
+                top: 50%;
+                left: 50%;
+                -ms-transform: translate(-50%,-50%);
+                -webkit-transform: translate(-50%,-50%);
+                transform: translate(-50%,-50%);
+                margin:0;
+                margin-top: 4%;
+                padding:0;   
         }
 
         .module .mask {
@@ -218,6 +214,7 @@ a:visited {
         text-align: center;
         font-size: 180%;
         color: #000000;
+        padding-bottom: 7.5%;
         margin-left: 7.5%;
         margin-right: 7.5%; 
         }
@@ -370,6 +367,7 @@ a:visited {
         text-align: center;
         font-size: 180%;
         color: #000000;
+        padding-bottom: 7.5%;
         margin-left: 7.5%;
         margin-right: 7.5%; 
         }
@@ -439,11 +437,8 @@ a:visited {
         }
 }
 
-
 .item {
         text-align: center;
-        color: #ffffff;
-        background: #ffffff00;
 }
 
 .twitter-tweet {
@@ -465,16 +460,12 @@ a:visited {
         text-align: center;
         font-size: 160%;
         color: #000000;
-        padding-top: 2%;
-        padding-bottom: 2%; 
-        margin-top: 6%;
+        padding-top: 0%;
+        padding-bottom: 0%;
+        padding-bottom: 4.5%;
         margin-bottom: 0%;
         margin-left: 0%;
         margin-right: 0%; 
-}
-
-.content iframe {
-        padding-top: 2%;
 }
 
 .content {
@@ -482,8 +473,25 @@ a:visited {
 }
 
 .content img {
-        padding-top: 2%;
+        padding-top: 0%;
+        padding-bottom: 2%;
         width: 80%;
+}
+
+.video {
+        position: relative;
+        padding-bottom: 56.25%;
+        height: 0;
+        overflow: hidden;
+        margin-bottom: 10px;
+}
+
+.video iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
 }
 
 .item p {
