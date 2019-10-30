@@ -255,9 +255,32 @@ a:visited {
     text-align: center;
     font-size: 100%;
     color: #000000;
-    margin-bottom: 7.5%;
+    margin-bottom: 0%;
     margin-left: 7.5%;
     margin-right: 7.5%;
+  }
+  .sns {
+    font-size: 1.5em;
+    margin-bottom: 7.5%;
+    margin-left: 0%;
+    text-align: center;
+  }
+  .sns i {
+    padding-right: 0.1%;
+    padding-left: 0.1%;
+  }
+  .sns i:hover {
+    background: -webkit-gradient(linear, right top, left top, from(#e73c7e), color-stop(#0e5aff), color-stop(#23a6d5), to(#23d5ab));
+    background: linear-gradient(-90deg, #e73c7e, #0e5aff, #23a6d5, #23d5ab);
+    background-size: 600% 600%;
+    color: #ffffff;
+    -webkit-animation: gradientBG 7.5s ease infinite;
+            animation: gradientBG 7.5s ease infinite;
+    padding-bottom: 0%;
+    padding-top: 0%;
+    padding-right: 0.1%;
+    padding-left: 0.1%;
+    border-bottom: 0px;
   }
   .about p {
     font-family: mr-eaves-sans, sans-serif;
@@ -404,9 +427,31 @@ a:visited {
     text-align: left;
     font-size: 100%;
     color: #000000;
-    margin-bottom: 7.5%;
+    margin-bottom: 0%;
     margin-left: 18%;
     margin-right: 7.5%;
+  }
+  .sns {
+    font-size: 1.5em;
+    margin-bottom: 7.5%;
+    margin-left: 18%;
+  }
+  .sns i {
+    padding-right: 0.1%;
+    padding-left: 0.1%;
+  }
+  .sns i:hover {
+    background: -webkit-gradient(linear, right top, left top, from(#e73c7e), color-stop(#0e5aff), color-stop(#23a6d5), to(#23d5ab));
+    background: linear-gradient(-90deg, #e73c7e, #0e5aff, #23a6d5, #23d5ab);
+    background-size: 600% 600%;
+    color: #ffffff;
+    -webkit-animation: gradientBG 7.5s ease infinite;
+            animation: gradientBG 7.5s ease infinite;
+    padding-bottom: 0%;
+    padding-top: 0%;
+    padding-right: 0.1%;
+    padding-left: 0.1%;
+    border-bottom: 0px;
   }
   .about p {
     font-family: mr-eaves-sans, sans-serif;
