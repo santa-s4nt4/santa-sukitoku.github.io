@@ -1,6 +1,6 @@
 let mic, fft;
-let num = 200;
-let r = 400;
+let num = 1;
+let r = 300;
 
 function setup() {
     createCanvas(windowWidth, windowHeight);
@@ -19,9 +19,8 @@ function draw() {
     let spc = fft.analyze();
     let slice = TAU / num;
 
-    strokeWeight(2);
-    stroke(0);
-    fill(0);
+    //strokeWeight(0);
+    noStroke();
 
     for (let i = 0; i < num; i++) {
         push();
