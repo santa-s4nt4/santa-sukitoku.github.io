@@ -15,12 +15,11 @@ function setup() {
 }
 
 function draw() {
-    background(255);
+    background(0);
     let spc = fft.analyze();
     let slice = TAU / num;
 
     strokeWeight(0);
-
     for (let i = 0; i < spc.length; i++) {
         push();
         translate(width / 2, height / 2);
@@ -36,5 +35,6 @@ function draw() {
     }
 
     noStroke();
+    fill(0);
     ellipse((width / 2), (height / 2), r);
 }
