@@ -1,5 +1,5 @@
 let mic, fft;
-let num = 1;
+let num = 150;
 let r = 300;
 
 function setup() {
@@ -31,7 +31,6 @@ function draw() {
         stroke(hue, 255, brightness * 2);
         fill(hue, 255, brightness);
         let d = map(spc[i], 0, 255, 0, height - (100 + r)) + r;
-        console.log(d);
         arc(0, 0, d, d, 0, slice, PIE);
         pop();
     }
