@@ -5,7 +5,7 @@ let r = 400;
 function setup() {
     createCanvas(windowWidth, windowHeight);
 
-    colorMode(HSB, 255);
+    //colorMode(HSB, 255);
 
     mic = new p5.AudioIn();
     mic.start();
