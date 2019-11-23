@@ -299,6 +299,14 @@ a:visited {
         animation: gradientBG 7.5s ease infinite;
         border-bottom: 0px;
         }
+
+        .footer_index p {
+        font-family: mr-eaves-sans, sans-serif;
+        color: black;
+        text-align: center;
+        padding-top: 105%;
+        font-size: 80%;
+        }
 }
 
 @media screen and (min-width: 770px){
@@ -474,6 +482,24 @@ a:visited {
         color: #ffffff;
         animation: gradientBG 7.5s ease infinite;
         border-bottom: 0px;
+        }
+
+        .footer_index p {
+        font-family: mr-eaves-sans, sans-serif;
+        color: black;
+        text-align: center;
+        padding-top: 55%;
+        font-size: 80%;
+        }
+}
+
+@media screen and (min-width: 2000px){
+        .footer_index p {
+        font-family: mr-eaves-sans, sans-serif;
+        color: black;
+        text-align: center;
+        padding-top: 85%;
+        font-size: 80%;
         }
 }
 
