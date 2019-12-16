@@ -125,6 +125,17 @@ a:visited {
         color: #000000;
 }
 
+.category-all {
+        height: 150px;
+        overflow-y: scroll;
+        -ms-overflow-style: none;    /* IE, Edge 対応 */
+        scrollbar-width: none;       /* Firefox 対応 */
+}
+
+.category-all::-webkit-scrollbar {  /* Chrome, Safari 対応 */
+        display:none;
+}
+
 .category-all p {
         text-align: center;
         font-family: mr-eaves-sans, sans-serif;
