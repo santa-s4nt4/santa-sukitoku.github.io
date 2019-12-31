@@ -1,7 +1,7 @@
 
 export default {
   router: {
-    base: '/<repository-name>/'
+    base: '/santa-sukitoku.github.io/'
   },
 
   mode: 'universal',
@@ -16,7 +16,7 @@ export default {
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/santa-sukitoku.github.io/favicon.ico' }
     ],
     script: [
       { src: 'https://use.typekit.net/krb5kuj.js' }
