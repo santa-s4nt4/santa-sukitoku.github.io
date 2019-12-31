@@ -1,5 +1,9 @@
 
 export default {
+  router: {
+    base: '/<repository-name>/'
+  },
+
   mode: 'universal',
   /*
   ** Headers of the page
