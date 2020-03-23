@@ -13,6 +13,9 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/logo_santa_black_alpha.png' }
+    ],
+    script: [
+      { src: 'https://use.typekit.net/krb5kuj.js' }
     ]
   },
   /*

@@ -13,18 +13,42 @@ canvas {
 }
 
 html {
-  visibility: hidden;
+    visibility: hidden;
 }
 
 html.wf-active {
-  visibility: visible;
+    visibility: visible;
+}
+
+header {
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
 }
 
 body {
-        margin: 0 auto;
-        max-width: 56em;
-        padding: 1em 0;
-        background-attachment: fixed;
+    margin: 0 auto;
+    max-width: 90em;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    background-attachment: fixed;
+}
+
+footer {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 0%;
+    padding-bottom: 2%;
+}
+
+.footer {
+    font-family: futura-pt, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
 }
 
 @keyframes gradientBG {
@@ -37,4 +61,105 @@ body {
 	100% {
 		background-position: 0% 50%;
 	}
+}
+
+a {
+    text-decoration: none;
+    padding-left: 0.4%;
+    padding-right: 0.4%;
+    color: #000000;
+    border-bottom: 0.1px solid #d3d3d3;
+}
+
+a:visited {
+    color: #000000;
+}
+
+a:hover {
+    background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
+    background-size: 600% 600%;
+    animation: gradientBG 4s ease infinite;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.menu {
+    text-align: right;
+}
+
+.menu a {
+    padding-left: 2.4%;
+    padding-right: 2.4%;
+}
+
+.menu li {
+    text-align: right;
+    font-family: futura-pt, sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.menu ul {
+    list-style-type: none;
+}
+
+.menu li {
+    list-style: none;
+    display: inline-block;
+    min-width: 90px;
+}
+
+.siteTitle a {
+    padding-left: 2.4%;
+    padding-right: 2.4%;
+}
+
+.siteTitle ul {
+    padding-left: 0%;
+}
+
+.siteTitle ul li {
+    min-width: 0px;
+    float: left;
+    font-family: futura-pt, sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.aboutAuthor p {
+    font-family: futura-pt, sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.aboutAuthorSub p {
+    font-family: a-otf-ud-shin-go-pr6n, sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 2em;
+}
+
+.aboutLink {
+    font-size: 20px;
+    padding-bottom: 1.5%;
+}
+
+.aboutCareer {
+    font-family: futura-pt, sans-serif;
+    font-size: 22px;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.aboutCareerSub {
+    font-family: a-otf-ud-shin-go-pr6n, sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 2em;
+    padding-bottom: 0.5%;
 }
