@@ -108,7 +108,7 @@
     <router-link to="/works/190602">
       <div class="works">
         <img
-          src="https://lh3.googleusercontent.com/RLSu8O2eiqI1U8iWaIJpoqzBI3liBCHT5gBnkD6ZPqe864m2YDqH9OLvB-V_doCgLR2yqh2n_l6UulM56eSxQpPgdG1V3HfJJyg6WXRsYDzxmF_zZ8kKD9aaM8DY3UQa3hoO6kJXagQ=w2400"
+          src="https://lh3.googleusercontent.com/jUAeRx87g41nENrvKCMNhBO0HMcMmDJBUEUD_iI1QWyZHNJe8imc4c8C6WxD76UOASoZqyvFKwRRbUy1IJm_BXWK-AiDzLOovn4gqCaqAmB8lHINJCW-xDvptwBoMahvxpvHV-GfGfU=w2400"
           width="100%"
         />
         <div class="mask">
