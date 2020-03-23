@@ -1,0 +1,17 @@
+{
+  "name": "santa-sukitoku",
+  "version": "1.0.0",
+  "description": "santa&#39;s portfolio",
+  "author": "Santa",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
