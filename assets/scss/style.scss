@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+@import '_variables';
+@import '_base';
+
+canvas {
+    display: block;
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -999;
+}
+
+html {
+  visibility: hidden;
+}
+
+html.wf-active {
+  visibility: visible;
+}
+
+body {
+        margin: 0 auto;
+        max-width: 56em;
+        padding: 1em 0;
+        background-attachment: fixed;
+}
+
+@keyframes gradientBG {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
