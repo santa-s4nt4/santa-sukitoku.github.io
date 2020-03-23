@@ -2,7 +2,7 @@
 <section class="container">
   <body class="allContent">
     <div class="captionContent">
-      <p>- computer music1 group work -</p>
+      <p>- Computer Music1 group work -</p>
     </div>
     <div class="content">
       <p>- gallery -</p>

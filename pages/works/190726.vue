@@ -2,7 +2,7 @@
 <section class="container">
   <body class="allContent">
     <div class="captionContent">
-      <p>- computer music1 final work "I & Forest" -</p>
+      <p>- Computer Music1 final work "I & Forest" -</p>
     </div>
     <div class="content">
       <iframe
