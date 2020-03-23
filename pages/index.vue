@@ -24,7 +24,7 @@
         <div class="mask">
           <div class="caption">
             <p>
-              computer music2 final work
+              Computer Music2 final work
               <br />"draw2sound"
             </p>
           </div>
@@ -69,7 +69,7 @@
         <div class="mask">
           <div class="caption">
             <p>
-              computer music1 final work
+              Computer Music1 final work
               <br />"I & Forest"
             </p>
           </div>
@@ -99,7 +99,7 @@
         />
         <div class="mask">
           <div class="caption">
-            <p>computer music1 group work</p>
+            <p>Computer Music1 group work</p>
           </div>
         </div>
       </div>
