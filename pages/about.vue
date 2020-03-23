@@ -1,6 +1,6 @@
 <template>
 <section class="container">
-  <body class="allWorks">
+  <body class="allAbout">
     <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet" />
     <div class="aboutAuthor">
       <p>Santa is a Tokyo based Visual Programmer.</p>
