@@ -112,13 +112,6 @@
 </template>
 
 <script>
-export default {
-  data: function() {
-    return {
-      messeage: "Hello World!"
-    };
-  }
-};
 </script>
 
 <style>
