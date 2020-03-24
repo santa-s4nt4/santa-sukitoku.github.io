@@ -1,6 +1,16 @@
 <template>
 <section class="container">
   <body class="all">
+    <div class="year">
+      <ul>
+        <li>
+          <router-link to="/">2020</router-link>
+        </li>
+        <li class="chooseYear">
+          <router-link to="/2019">2019</router-link>
+        </li>
+      </ul>
+    </div>
     <router-link to="/works/191231">
       <div class="works">
         <img
@@ -97,5 +107,13 @@
 <script>
 </script>
 
-<style>
+<style lang="scss" scoped>
+.chooseYear a {
+  background: linear-gradient(-90deg, #e73c7e, #0e5aff, #23a6d5, #23d5ab);
+  background-size: 600% 600%;
+  animation: gradientBG 4s ease infinite;
+  color: #ffffff;
+  text-decoration: none;
+  border-bottom: 0px;
+}
 </style>

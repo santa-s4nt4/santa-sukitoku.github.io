@@ -96,7 +96,7 @@ a:hover {
     text-align: right;
     font-family: futura-pt, sans-serif;
     font-size: 25px;
-    font-weight: 400;
+    font-weight: 300;
     font-style: normal;
 }
 
@@ -126,6 +126,43 @@ a:hover {
     font-size: 25px;
     font-weight: 300;
     font-style: normal;
+}
+
+.year li {
+    text-align: left;
+    font-family: futura-pt, sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.year ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.year li {
+    list-style: none;
+    display: inline-block;
+    min-width: 50px;
+}
+
+.year a {
+    text-decoration: none;
+    color: #000000;
+    border-bottom: 0.1px solid #d3d3d3;
+}
+
+.year a:visited {
+    color: #000000;
+}
+
+.year a:hover {
+    background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
+    background-size: 600% 600%;
+    animation: gradientBG 4s ease infinite;
+    color: #ffffff;
+    text-decoration: none;
 }
 
 .aboutAuthor p {
