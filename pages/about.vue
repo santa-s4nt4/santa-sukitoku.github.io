@@ -8,14 +8,14 @@
         <img
           src="https://lh3.googleusercontent.com/71jjT8idP50_o2ZMNoUDdEAmUgfV2_gMRb32clSqFUGPLgtMIopT-pB4FDhbvuZYh-xLT9fG_cKgcr5GWYIx9piUbKtnjEgbRifenoDzomxQ8y4DmNlw8I155-OUNeAAS2sxRSjFjLA=w2400"
           alt="logo"
-          width="20%"
+          width="300px"
         />
       </div>
       <div class="aboutAuthorSub">
         <p>
           Visual Programmer / Visual Jockey / 学生．
           <br />visual制作，Visual Jockey，インタラクティブ作品制作，写真撮影などを行う．
-          <br />2000年大阪府生まれ．長野育ち．神奈川県在住．
+          <br />2000年大阪府生まれ．長野県育ち．神奈川県在住．
         </p>
         <div class="aboutLink">
           <a href="https://twitter.com/santa_sukitoku" target="_blank">
@@ -34,7 +34,7 @@
       </div>
     </div>
     <div class="aboutCareer">
-      <p>- skills -</p>
+      <p>- Skills -</p>
       <div class="aboutCareerSub">
         <p>
           TouchDesigner / GLSL / Processing / p5.js / Cycling 74 Max / Ableton Live / TidalCycles /
@@ -43,7 +43,7 @@
       </div>
     </div>
     <div class="aboutCareer">
-      <p>- performances -</p>
+      <p>- Performances -</p>
       <div class="aboutCareerSub">
         <p>
           [2020.02]
@@ -69,10 +69,18 @@
       </div>
     </div>
     <div class="aboutCareer">
-      <p>- education -</p>
+      <p>- Education -</p>
       <div class="aboutCareerSub">
         <p>
-          [2019 - Current]
+          [2020 - Current]
+          <a
+            href="https://www.kri.sfc.keio.ac.jp/ja/lab/xmusic/"
+            target="_blank"
+          >x-Music Laboratory</a>,
+          at
+          <a href="https://www.keio.ac.jp/" target="_blank">Keio University</a>
+          <a href="https://www.sfc.keio.ac.jp" target="_blank">SFC</a>
+          <br />[2019 - Current]
           <a
             href="https://cclab.sfc.keio.ac.jp"
             target="_blank"
@@ -86,7 +94,7 @@
       </div>
     </div>
     <div class="aboutCareer">
-      <p>- work experience -</p>
+      <p>- Work Experiences -</p>
       <div class="aboutCareerSub">
         <p>
           [2020.04 - Current]
