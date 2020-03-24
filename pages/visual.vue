@@ -6,7 +6,7 @@
         <li>
           <router-link to="/">2020</router-link>
         </li>
-        <li class="chooseYear">
+        <li>
           <router-link to="/2019">2019</router-link>
         </li>
       </ul>
@@ -24,15 +24,15 @@
         </li>
       </ul>
     </div>
-    <router-link to="/works/191231">
+    <router-link to="/works/200215">
       <div class="works">
         <img
-          src="https://lh3.googleusercontent.com/iygRRR1CANo4x4zvkI95Fpw9hm1aK4eWcwqGWqpwOygVEIPTuC8d5JnWAGNtOVz7bmAou58BCAvY3cM6qazja2fRhClxTwYgGYYIJ591bqpDufkL3Jbxfj8MT9e2i1xLQjuOssSvR6Q=w2400"
+          src="https://lh3.googleusercontent.com/fbKxieZgo7jvN7PGrn-zJZ8ZodGeRxD0txJPogqg8LHtAKNadIhtUYFt9ud7CXasoUlgPZX6dfoliYYdjp3ZcdF8WF538QLI0QoJyGLg6LxC05tTs9y3bGeGPlDFQ75kllFxQ0vjEPI=w2400"
           width="100%"
         />
         <div class="mask">
           <div class="caption">
-            <p>best photographs of 2019</p>
+            <p>visual system for Algorave Tokyo</p>
           </div>
         </div>
       </div>
@@ -52,23 +52,6 @@
       </div>
     </router-link>
 
-    <router-link to="/works/190726">
-      <div class="works">
-        <img
-          src="https://lh3.googleusercontent.com/VEMrUc_0_E-ec2byFk-MoCpHN4Zhcv825m7fx-mDs0k0tKrzOmURegZ49jfOchBb5QqNqEaYVzh_lV1h-uJORy-Fr-RYmbrQaD44kDd6kXyBwxVDUCDEaBpujp5XiZ45ycXv2cX5Dgw=w2400"
-          width="100%"
-        />
-        <div class="mask">
-          <div class="caption">
-            <p>
-              Computer Music1 final work
-              <br />"I & Forest"
-            </p>
-          </div>
-        </div>
-      </div>
-    </router-link>
-
     <router-link to="/works/190717">
       <div class="works">
         <img
@@ -78,20 +61,6 @@
         <div class="mask">
           <div class="caption">
             <p>graphics programming final work</p>
-          </div>
-        </div>
-      </div>
-    </router-link>
-
-    <router-link to="/works/190705">
-      <div class="works">
-        <img
-          src="https://lh3.googleusercontent.com/3Nzk6qaLx8CAcnNVFhZD8xqDK4fvWBP7lg0gDNFeerhFzspV4s0oV_cA4Ogi6hNAWu-mAFutCvr6gMkFlTy7FW6uAwV-f-h19oNTThPJrluJygMSDGI3T1ydxTT2KGfdS3C9DR_IjC8=w2400"
-          width="100%"
-        />
-        <div class="mask">
-          <div class="caption">
-            <p>Computer Music1 group work</p>
           </div>
         </div>
       </div>
@@ -121,7 +90,7 @@
 </script>
 
 <style lang="scss" scoped>
-.chooseYear a {
+.chooseCategory a {
   background: linear-gradient(-90deg, #e73c7e, #0e5aff, #23a6d5, #23d5ab);
   background-size: 600% 600%;
   animation: gradientBG 4s ease infinite;

@@ -6,17 +6,17 @@
         <li>
           <router-link to="/">2020</router-link>
         </li>
-        <li class="chooseYear">
+        <li>
           <router-link to="/2019">2019</router-link>
         </li>
       </ul>
     </div>
     <div class="category">
       <ul>
-        <li class="chooseCategory">
+        <li>
           <router-link to="/visual">Visual</router-link>
         </li>
-        <li>
+        <li class="chooseCategory">
           <router-link to="/sound">Sound</router-link>
         </li>
         <li>
@@ -24,29 +24,18 @@
         </li>
       </ul>
     </div>
-    <router-link to="/works/191231">
+    <router-link to="/works/200117">
       <div class="works">
         <img
-          src="https://lh3.googleusercontent.com/iygRRR1CANo4x4zvkI95Fpw9hm1aK4eWcwqGWqpwOygVEIPTuC8d5JnWAGNtOVz7bmAou58BCAvY3cM6qazja2fRhClxTwYgGYYIJ591bqpDufkL3Jbxfj8MT9e2i1xLQjuOssSvR6Q=w2400"
+          src="https://lh3.googleusercontent.com/2SdUua1t9uqJIEq7gI5KWXn4exLleO1vXCEivR9EychlPxvjaXSJec_1SDhT2RjT9B5zesCHck8uCZ95wM2z58S1gjxCVCJjbuIbzlLk6B9ereHRaHMfX1lPs_Sh7A8ivKEHpwlKdkw=w2400"
           width="100%"
         />
         <div class="mask">
           <div class="caption">
-            <p>best photographs of 2019</p>
-          </div>
-        </div>
-      </div>
-    </router-link>
-
-    <router-link to="/works/191024">
-      <div class="works">
-        <img
-          src="https://lh3.googleusercontent.com/aUlxAwRBNudTcZf6DaE91xud3rTvao-gitIkfzgD_nr0Hg8v0q_3jyDTaR8aY-k-pEL_AhqHfGGRrbfO__e5AZFRUu-CImashxVX8JE7_1RH6IYaUXMy0AvQwTNjgrYXsmLwrjswlQw=w2400"
-          width="100%"
-        />
-        <div class="mask">
-          <div class="caption">
-            <p>visual system for SFC Creative Week</p>
+            <p>
+              Computer Music2 final work
+              <br />"draw2sound"
+            </p>
           </div>
         </div>
       </div>
@@ -69,20 +58,6 @@
       </div>
     </router-link>
 
-    <router-link to="/works/190717">
-      <div class="works">
-        <img
-          src="https://lh3.googleusercontent.com/z6cH0zUkyLu_hVsdjqCNNQoi64WmaCiKGWDH8SqOC5p2b3LR3oHIuLiSxc1IUeZf2fBlVHOPTxxj-d8PpHbgsMmfumRTSHFWaa2ZeR-_ByUcjVYO3pBTGxkGso7ArHNOfHQE-Mzk3pE=w2400"
-          width="100%"
-        />
-        <div class="mask">
-          <div class="caption">
-            <p>graphics programming final work</p>
-          </div>
-        </div>
-      </div>
-    </router-link>
-
     <router-link to="/works/190705">
       <div class="works">
         <img
@@ -96,23 +71,6 @@
         </div>
       </div>
     </router-link>
-
-    <router-link to="/works/190602">
-      <div class="works">
-        <img
-          src="https://lh3.googleusercontent.com/jUAeRx87g41nENrvKCMNhBO0HMcMmDJBUEUD_iI1QWyZHNJe8imc4c8C6WxD76UOASoZqyvFKwRRbUy1IJm_BXWK-AiDzLOovn4gqCaqAmB8lHINJCW-xDvptwBoMahvxpvHV-GfGfU=w2400"
-          width="100%"
-        />
-        <div class="mask">
-          <div class="caption">
-            <p>
-              visual system for
-              <br />SourceCord Vol.3 & X-Music Night
-            </p>
-          </div>
-        </div>
-      </div>
-    </router-link>
   </body>
 </section>
 </template>
@@ -121,7 +79,7 @@
 </script>
 
 <style lang="scss" scoped>
-.chooseYear a {
+.chooseCategory a {
   background: linear-gradient(-90deg, #e73c7e, #0e5aff, #23a6d5, #23d5ab);
   background-size: 600% 600%;
   animation: gradientBG 4s ease infinite;

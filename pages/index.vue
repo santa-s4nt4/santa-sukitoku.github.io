@@ -11,6 +11,19 @@
         </li>
       </ul>
     </div>
+    <div class="category">
+      <ul>
+        <li class="chooseCategory">
+          <router-link to="/visual">Visual</router-link>
+        </li>
+        <li>
+          <router-link to="/sound">Sound</router-link>
+        </li>
+        <li>
+          <router-link to="/photo">Photo</router-link>
+        </li>
+      </ul>
+    </div>
     <router-link to="/works/200215">
       <div class="works">
         <img

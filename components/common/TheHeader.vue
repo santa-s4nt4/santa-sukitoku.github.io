@@ -8,7 +8,6 @@
           </li>
         </ul>
       </div>
-      <p></p>
       <ul>
         <li>
           <router-link to="/about">About</router-link>
