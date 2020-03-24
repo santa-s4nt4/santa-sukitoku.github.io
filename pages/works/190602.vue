@@ -2,7 +2,7 @@
 <section class="container">
   <body class="allContent">
     <div class="captionContent">
-      <p>- isual system for SourceCord Vol.3 & SFC X-Music DJ Night -</p>
+      <p>- Visual system for SourceCord Vol.3 & SFC X-Music DJ Night -</p>
     </div>
     <div class="content">
       <p>- gallery -</p>
