@@ -27,7 +27,7 @@
     <router-link to="/works/191231">
       <div class="works">
         <img
-          src="https://lh3.googleusercontent.com/iygRRR1CANo4x4zvkI95Fpw9hm1aK4eWcwqGWqpwOygVEIPTuC8d5JnWAGNtOVz7bmAou58BCAvY3cM6qazja2fRhClxTwYgGYYIJ591bqpDufkL3Jbxfj8MT9e2i1xLQjuOssSvR6Q=w2400"
+          src="https://lh3.googleusercontent.com/7oSynJ6m3WrDY9WR7a5GsIpo8mdKYX5LQBrYgE0q8K3bw_go7vPMYNs_QWXXLarm9Yfi94KbgszuoM82_9HpWc7lVAB9fQYjhzMtebsrOjRwK_QHd-7MYV6_t7_X67xmJfx0ooJukBk=w2400"
           width="100%"
         />
         <div class="mask">
