@@ -27,6 +27,12 @@
           <a href="https://soundcloud.com/santa-n" target="_blank">
             <i class="fab fa-soundcloud"></i>
           </a>
+          <a
+            href="https://open.spotify.com/user/21i5tt577asz4phxd3rk7xibi?si=tVJRdrfzSrCjTmRyphYqdQ"
+            target="_blank"
+          >
+            <i class="fab fa-spotify"></i>
+          </a>
           <a href="https://www.instagram.com/santa_sukitoku/" target="_blank">
             <i class="fab fa-instagram"></i>
           </a>
