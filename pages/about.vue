@@ -52,7 +52,12 @@
       <p>- Performances -</p>
       <div class="aboutCareerSub">
         <p>
-          [2020.02]
+          [2020.04]
+          <a
+            href="https://twitter.com/rhizomatiks/status/1245636361731768321?s=20"
+            target="_blank"
+          >Staying Tokyo Vol.00</a> - visual
+          <br />[2020.02]
           <a href="http://ochiaisoup.com/?p=3734" target="_blank">Algorave Tokyo</a> - visual
           <br />[2019.10]
           <router-link to="works/191024">SFC Creative Week</router-link>&nbsp;- visual
