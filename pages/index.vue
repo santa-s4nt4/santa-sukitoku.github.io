@@ -24,6 +24,20 @@
         </li>
       </ul>
     </div>
+    <router-link to="/works/200418">
+      <div class="works">
+        <img
+          src="https://lh3.googleusercontent.com/1bmmevq6zXlreMCcBV9IbMaL1qm_-uCN1reOcQVly0-AoCJFKp7JlPBbFiJ6U7W0AoBoejQHI4Nk6KBhaIysqk3v6ewC0Yxya86gnWJFYVwNIvinULjtUb32tM3_YfkHU2PkWn90E5Q=w2400"
+          width="100%"
+        />
+        <div class="mask">
+          <div class="caption">
+            <p>visual system for x-Music Online vol.0.0</p>
+          </div>
+        </div>
+      </div>
+    </router-link>
+
     <router-link to="/works/200215">
       <div class="works">
         <img

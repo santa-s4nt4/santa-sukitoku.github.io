@@ -54,6 +54,11 @@
         <p>
           [2020.04]
           <a
+            href="https://twitter.com/CCLab_SFC/status/1251122493642817538?s=20"
+            target="_blank"
+          >x-Music Online Vol.00</a> - visual
+          <br />[2020.04]
+          <a
             href="https://twitter.com/rhizomatiks/status/1245636361731768321?s=20"
             target="_blank"
           >Staying Tokyo Vol.00</a> - visual
@@ -108,10 +113,7 @@
       <p>- Work Experiences -</p>
       <div class="aboutCareerSub">
         <p>
-          [2020.04 - Current]
-          <a href="https://dentsucraft.tokyo/" target="_blank">Dentsu Craft Tokyo</a>
-          internship
-          <br />[2019.06 - 2019.10]
+          [2019.06 - 2019.10]
           <a href="https://nepps.jp" target="_blank">Nepps</a> Mentor
           <br />[2019.01 - 2019.03]
           <a href="https://www.1-10.com" target="_blank">1→10, Inc.</a>
