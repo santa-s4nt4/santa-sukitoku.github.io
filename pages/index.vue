@@ -24,6 +24,20 @@
         </li>
       </ul>
     </div>
+    <router-link to="/works/200423">
+      <div class="works">
+        <img
+          src="https://lh3.googleusercontent.com/FV7YiZEtLCJn5G1p03YqVo34wZ-YMrUWaVvAQgnC82nzU0DJeUXcGLhUQTPqKgcmO9mHKDigO2mZRZ3Wg1xfe05asawq98wb7zpz_36-X9ZROTBykEs_I2gZn8Qh0A-ca5Xyb9lZF1E=w2400"
+          width="100%"
+        />
+        <div class="mask">
+          <div class="caption">
+            <p>Optimize Heartbeat by Music</p>
+          </div>
+        </div>
+      </div>
+    </router-link>
+
     <router-link to="/works/200418">
       <div class="works">
         <img
