@@ -59,7 +59,7 @@
         使用技術 : Max for Live (Max 8) / Ableton Live 10 / Arduino / ORPHE TRACK
         <br />Link :
         <a
-          href="Optimize Heartbeat by Music"
+          href="https://youtu.be/eG2a64GT82E"
           target="_blank"
         >Optimize Heartbeat by Music - demo movie</a>
         <br />Source Code :
@@ -74,7 +74,7 @@
           Members :
           <br />- Momoha Matsuhashi : Hardware
           <br />- Miku Fujimoto : Sound Design
-          <br />- Santa Naruse : Program
+          <br />- Santa : Program
         </p>
       </div>
     </div>
