@@ -1,5 +1,10 @@
 <template>
 <section class="container">
+  <div>
+    <transition name="page">
+      <nuxt />
+    </transition>
+  </div>
   <body class="allAbout">
     <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet" />
     <div class="aboutAuthor">

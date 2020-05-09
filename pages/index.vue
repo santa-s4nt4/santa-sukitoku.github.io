@@ -1,5 +1,10 @@
 <template>
 <section class="container">
+  <div>
+    <transition name="page">
+      <nuxt />
+    </transition>
+  </div>
   <body class="all">
     <div class="year">
       <ul>
