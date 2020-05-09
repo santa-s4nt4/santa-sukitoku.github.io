@@ -6,29 +6,6 @@
     </transition>
   </div>
   <body class="all">
-    <div class="year">
-      <ul>
-        <li>
-          <router-link to="/">2020</router-link>
-        </li>
-        <li class="chooseYear">
-          <router-link to="/2019">2019</router-link>
-        </li>
-      </ul>
-    </div>
-    <div class="category">
-      <ul>
-        <li class="chooseCategory">
-          <router-link to="/visual">Visual</router-link>
-        </li>
-        <li>
-          <router-link to="/sound">Sound</router-link>
-        </li>
-        <li>
-          <router-link to="/photo">Photo</router-link>
-        </li>
-      </ul>
-    </div>
     <router-link to="/works/191231">
       <div class="works">
         <img
