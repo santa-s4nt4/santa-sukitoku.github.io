@@ -6,6 +6,20 @@
     </transition>
   </div>
   <body class="all">
+    <router-link to="/works/200627">
+      <div class="works">
+        <img
+          src="https://lh3.googleusercontent.com/QlnS59pO3nq3EMc_0q-hpX5Wn1D7lp1MW5DJRh--4_9znb8H0hj7mkpwPUuxFNxsjX5Vr_QlbXZfrJJfeUgiNpQPralPsCRv2FjeMeiigNeu-ia_Zh5S3ypihA_gIzeSjfPv5qjNrrs=w2400"
+          width="100%"
+        />
+        <div class="mask">
+          <div class="caption">
+            <p>visual system for Save The Metro Compilations -DAY2-</p>
+          </div>
+        </div>
+      </div>
+    </router-link>
+
     <router-link to="/works/200423">
       <div class="works">
         <img
