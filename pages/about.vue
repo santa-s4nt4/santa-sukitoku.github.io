@@ -10,9 +10,14 @@
     <div class="aboutAuthor">
       <p>Santa is a Tokyo based Visual Programmer.</p>
       <div class="aboutLogo">
-        <img
+        <!-- <img
           src="https://lh3.googleusercontent.com/71jjT8idP50_o2ZMNoUDdEAmUgfV2_gMRb32clSqFUGPLgtMIopT-pB4FDhbvuZYh-xLT9fG_cKgcr5GWYIx9piUbKtnjEgbRifenoDzomxQ8y4DmNlw8I155-OUNeAAS2sxRSjFjLA=w2400"
           alt="logo"
+          width="300px"
+        />-->
+        <img
+          src="https://lh3.googleusercontent.com/uOwasJm4zbD1gp3n5k4lia1sm2czcPx4UPthHpfQy1iwyupi_sbbddOj_1iu4r5ZwlG8Gx0ZB4B_Ep1t_F0wPkx3Uxnpzu_DRnKtEW3I8PwGyWEhmIVwh-atadxAY8ag2kcQaGF9gz8=w2400"
+          alt="profile"
           width="300px"
         />
       </div>
