@@ -60,7 +60,7 @@
     <router-link to="/works/190717">
       <div class="works">
         <img
-          src="https://lh3.googleusercontent.com/I5ELoud-mo88ox4uUCmQcrfG4596G7nkdOdr9dyz1JjX6LI-kyYCpcrpt6FD3NWmqdoVob-hZCxWCAoKVOM58N_RtvtlPvHjMTJmt4L0mTfC2QygPSLSgn5P6Un0wloTPw8YPGgPff8=w2400"
+          src="https://lh3.googleusercontent.com/z6cH0zUkyLu_hVsdjqCNNQoi64WmaCiKGWDH8SqOC5p2b3LR3oHIuLiSxc1IUeZf2fBlVHOPTxxj-d8PpHbgsMmfumRTSHFWaa2ZeR-_ByUcjVYO3pBTGxkGso7ArHNOfHQE-Mzk3pE=w2400"
           width="100%"
         />
         <div class="mask">
