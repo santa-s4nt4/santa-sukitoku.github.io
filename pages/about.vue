@@ -138,7 +138,9 @@
 </template>
 
 <script>
+export default {
+  layout: "default_about"
+};
 </script>
-
 <style>
 </style>
