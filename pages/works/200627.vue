@@ -2,7 +2,7 @@
 <section class="container">
   <body class="allContent">
     <div class="captionContent">
-      <p>- visual system for system for Save The Metro Compilations -DAY2- -</p>
+      <p>- visual system for system for Save The Metro Compilations -</p>
     </div>
     <div class="content">
       <p>- gallery -</p>
@@ -31,7 +31,9 @@
       <p>
         2020/06/27に
         <a href="https://www.twitch.tv/metro_kyoto">twitch.tv/metro_kyoto</a>で配信された
-        METRO 30周年記念配信 -DAY2- Save The Metro Compilations curated by Ken’ichi Itoi でのVJに使用したVisual System．
+        <a
+          href="https://metro-streaming.com/2020/06/20/save-the-metro-compilations-curated-by-kenichi-itoi/"
+        >METRO 30周年記念配信 -DAY2- Save The Metro Compilations curated by Ken’ichi Itoi</a> でのVJに使用したVisual System．
       </p>
     </div>
     <div class="itemSub">

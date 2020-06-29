@@ -14,7 +14,7 @@
         />
         <div class="mask">
           <div class="caption">
-            <p>visual system for Save The Metro Compilations -DAY2-</p>
+            <p>visual system for Save The Metro Compilations</p>
           </div>
         </div>
       </div>
