@@ -62,7 +62,12 @@
       <p>- Performances -</p>
       <div class="aboutCareerSub">
         <p>
-          [2020.04]
+          [2020.06]
+          <a
+            href="https://metro-streaming.com/2020/06/20/save-the-metro-compilations-curated-by-kenichi-itoi/"
+            target="_blank"
+          >METRO 30周年記念配信 -DAY2- Save The Metro Compilations curated by Ken’ichi Itoi</a> - visual
+          <br />[2020.04]
           <a
             href="https://twitter.com/CCLab_SFC/status/1251122493642817538?s=20"
             target="_blank"
