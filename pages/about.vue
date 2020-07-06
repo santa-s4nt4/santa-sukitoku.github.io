@@ -53,8 +53,9 @@
       <p>- Skills -</p>
       <div class="aboutCareerSub">
         <p>
-          [Visual] TouchDesigner / GLSL / Processing / p5.js
-          <br />[Sound] Cycling 74 Max / Ableton Live
+          [Visual Tool] TouchDesigner / GLSL / Processing / p5.js
+          <br />[Sound Tool] Cycling 74 Max / Ableton Live
+          <br />[Programming Language] Python
           <br />[Frontend] Nuxt.js / HTML / SCSS
         </p>
       </div>
