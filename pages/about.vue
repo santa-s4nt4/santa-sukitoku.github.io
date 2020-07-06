@@ -23,8 +23,8 @@
       </div>
       <div class="aboutAuthorSub">
         <p>
-          Visual Programmer / Visual Jockey / 学生．
-          <br />visual制作，Visual Jockey，インタラクティブ作品制作，写真撮影などを行う．
+          Visual Programmer / Visual Jockey / Student
+          <br />ビジュアルパフォーマンス，Visual Jockey，作品制作，写真撮影を行う．
           <br />2000年大阪府生まれ．長野県育ち．神奈川県在住．
         </p>
         <div class="aboutLink">
@@ -53,8 +53,9 @@
       <p>- Skills -</p>
       <div class="aboutCareerSub">
         <p>
-          TouchDesigner / GLSL / Processing / p5.js / Cycling 74 Max / Ableton Live / TidalCycles /
-          HTML&SCSS
+          [Visual] TouchDesigner / GLSL / Processing / p5.js
+          <br />[Sound] Cycling 74 Max / Ableton Live
+          <br />[Frontend] Nuxt.js / HTML / SCSS
         </p>
       </div>
     </div>
@@ -66,36 +67,36 @@
           <a
             href="https://metro-streaming.com/2020/06/20/save-the-metro-compilations-curated-by-kenichi-itoi/"
             target="_blank"
-          >METRO 30周年記念配信 -DAY2- Save The Metro Compilations curated by Ken’ichi Itoi</a> - visual
+          >METRO 30周年記念配信 -DAY2- Save The Metro Compilations curated by Ken’ichi Itoi</a> - Visual
           <br />[2020.04]
           <a
             href="https://twitter.com/CCLab_SFC/status/1251122493642817538?s=20"
             target="_blank"
-          >x-Music Online Vol.00</a> - visual
+          >x-Music Online Vol.00</a> - Visual
           <br />[2020.04]
           <a
             href="https://twitter.com/rhizomatiks/status/1245636361731768321?s=20"
             target="_blank"
-          >Staying Tokyo Vol.00</a> - visual
+          >Staying Tokyo Vol.00</a> - Visual
           <br />[2020.02]
-          <a href="http://ochiaisoup.com/?p=3734" target="_blank">Algorave Tokyo</a> - visual
+          <a href="http://ochiaisoup.com/?p=3734" target="_blank">Algorave Tokyo</a> - Visual
           <br />[2019.10]
-          <router-link to="works/191024">SFC Creative Week</router-link>&nbsp;- visual
+          <router-link to="works/191024">SFC Creative Week</router-link>&nbsp;- Visual
           <br />[2019.07]
           <a
             href="https://sukitoku.hatenablog.com/entry/190617"
             target="_blank"
-          >X-Music DJ Night</a> - visual
+          >X-Music DJ Night</a> - Visual
           <br />[2019.06]
           <a
             href="https://kagurane.com/schedules/view/1156"
             target="_blank"
-          >SourceCord Vol.3</a> - visual
+          >SourceCord Vol.3</a> - Visual
           <br />[2018.11]
           <a
             href="http://club-stomp.com/2018/11/09/algorave-osaka/"
             target="_blank"
-          >Algorave Osaka</a> - visual
+          >Algorave Osaka</a> - Visual
         </p>
       </div>
     </div>
