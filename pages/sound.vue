@@ -1,6 +1,20 @@
 <template>
 <section class="container">
   <body class="all">
+    <router-link to="/works/200718">
+      <div class="works">
+        <img
+          src="https://lh3.googleusercontent.com/uJcBrMAw-QP11Dl0vggW0_J6yaSNs_sL31k0yTFpYICpE3znwinZW_1xi2ks1BK8cPeHqxkuEo0yGKuE7OFkXwOP51G5IxtIUkVXR7OW3h3aikEuCuNiLs5LRDHEc-kITU-YHAruUaw=w2400"
+          width="100%"
+        />
+        <div class="mask">
+          <div class="caption">
+            <p>-14℃</p>
+          </div>
+        </div>
+      </div>
+    </router-link>
+
     <router-link to="/works/200423">
       <div class="works">
         <img
