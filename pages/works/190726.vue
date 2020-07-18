@@ -11,7 +11,7 @@
         scrolling="no"
         frameborder="no"
         allow="autoplay"
-        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/659424149&color=%234d9fff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
+        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/659424149&color=%23345454&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
       ></iframe>
       <br />
       <mark>I & Forest</mark>
