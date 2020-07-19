@@ -12,7 +12,7 @@ export default {
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/logo_santa_black_alpha.png' }
+      { rel: 'icon', type: 'image/x-icon', href: '/logo_santa.png' }
     ],
     script: [
       { src: 'https://use.typekit.net/krb5kuj.js' }
