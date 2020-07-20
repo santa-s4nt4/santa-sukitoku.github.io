@@ -6,6 +6,20 @@
     </transition>
   </div>
   <body class="all">
+    <router-link to="/works/200720">
+      <div class="works">
+        <img
+          src="https://lh3.googleusercontent.com/bs9HzDZ_xWk2T5sA_tm2hkTt4A2YDWmLDRQS0L86FJhQwvm5_UbNPdSTrOp4qt4CODabtK3BgQYt63ukTOhsAhzvsN5XDbWeuFtuJVclqmeZYb9ecEZUzHIYzqbxeXmcZuIy81kK4Zw=w2400"
+          width="100%"
+        />
+        <div class="mask">
+          <div class="caption">
+            <p>logo of santa_sukitoku</p>
+          </div>
+        </div>
+      </div>
+    </router-link>
+
     <router-link to="/works/200718">
       <div class="works">
         <img
