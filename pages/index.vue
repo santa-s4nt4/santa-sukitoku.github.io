@@ -9,12 +9,12 @@
     <router-link to="/works/200718">
       <div class="works">
         <img
-          src="https://lh3.googleusercontent.com/uJcBrMAw-QP11Dl0vggW0_J6yaSNs_sL31k0yTFpYICpE3znwinZW_1xi2ks1BK8cPeHqxkuEo0yGKuE7OFkXwOP51G5IxtIUkVXR7OW3h3aikEuCuNiLs5LRDHEc-kITU-YHAruUaw=w2400"
+          src="https://lh3.googleusercontent.com/PMH-SlwKA70K1SXu5FTDolkKzmGps-EcTueBhsx76H-RgHL7oYw73tejsxE3iQPv6WjjkCefazmv10TD3OG_eEKGt8vqXg7RWkD-9-J4GtY5ke9oqN9ESWXHA3_P-tZBPk5JUjZ_zV4=w2400"
           width="100%"
         />
         <div class="mask">
           <div class="caption">
-            <p>-14℃</p>
+            <p>-14&#x2103;</p>
           </div>
         </div>
       </div>
