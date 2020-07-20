@@ -37,7 +37,7 @@
     <router-link to="/works/190726">
       <div class="works">
         <img
-          src="https://lh3.googleusercontent.com/VEMrUc_0_E-ec2byFk-MoCpHN4Zhcv825m7fx-mDs0k0tKrzOmURegZ49jfOchBb5QqNqEaYVzh_lV1h-uJORy-Fr-RYmbrQaD44kDd6kXyBwxVDUCDEaBpujp5XiZ45ycXv2cX5Dgw=w2400"
+          src="https://lh3.googleusercontent.com/di8AVOK28cmWEf8TOLcTM6U9-sobSieS903egurIg247Fo8ysa9iXNNV_VjyEUiYhlO4u5Au3-91OBNE9JpW33uATaMb-7h06aChyM5F1LuwPHkEfoC8YZ4yk4PooaGZ79TrO0am_tk=w2400"
           width="100%"
         />
         <div class="mask">
@@ -46,20 +46,6 @@
               Computer Music1 final work
               <br />"I & Forest"
             </p>
-          </div>
-        </div>
-      </div>
-    </router-link>
-
-    <router-link to="/works/190717">
-      <div class="works">
-        <img
-          src="https://lh3.googleusercontent.com/z6cH0zUkyLu_hVsdjqCNNQoi64WmaCiKGWDH8SqOC5p2b3LR3oHIuLiSxc1IUeZf2fBlVHOPTxxj-d8PpHbgsMmfumRTSHFWaa2ZeR-_ByUcjVYO3pBTGxkGso7ArHNOfHQE-Mzk3pE=w2400"
-          width="100%"
-        />
-        <div class="mask">
-          <div class="caption">
-            <p>graphics programming final work</p>
           </div>
         </div>
       </div>
@@ -82,7 +68,7 @@
     <router-link to="/works/190602">
       <div class="works">
         <img
-          src="https://lh3.googleusercontent.com/jUAeRx87g41nENrvKCMNhBO0HMcMmDJBUEUD_iI1QWyZHNJe8imc4c8C6WxD76UOASoZqyvFKwRRbUy1IJm_BXWK-AiDzLOovn4gqCaqAmB8lHINJCW-xDvptwBoMahvxpvHV-GfGfU=w2400"
+          src="https://lh3.googleusercontent.com/1VauE42WX8mA9BZ-MTtzKj67KCLEW9lpGyS5dKqrV3eHO7XphXCDpWszpASq7CusrGHYk79zldKnmKvMXA0aLFYOZ_Oh7eu0QNS4EB_oJu64IWks0NUozcHrkqIjwSWwHdswgpBZewQ=w2400"
           width="100%"
         />
         <div class="mask">

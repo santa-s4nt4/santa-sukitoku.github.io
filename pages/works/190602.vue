@@ -27,17 +27,12 @@
       <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       <br />
       <img
-        src="https://lh3.googleusercontent.com/MMU4--5WUrfedwMeFUZWrrK9CEiHKPGxEpD7hmp9gZZBO8qiGgN7S0XO-s9klOk0tgaKYmfdxJx7hT5p-DjGev847_gRVuva-bQBoFOAlQIPaz_cV6G9Wy0lrZE3OEzTxEY40AE1wX8=w2400"
+        src="https://lh3.googleusercontent.com/1VauE42WX8mA9BZ-MTtzKj67KCLEW9lpGyS5dKqrV3eHO7XphXCDpWszpASq7CusrGHYk79zldKnmKvMXA0aLFYOZ_Oh7eu0QNS4EB_oJu64IWks0NUozcHrkqIjwSWwHdswgpBZewQ=w2400"
         width="100%"
       />
       <br />
       <img
-        src="https://lh3.googleusercontent.com/jUAeRx87g41nENrvKCMNhBO0HMcMmDJBUEUD_iI1QWyZHNJe8imc4c8C6WxD76UOASoZqyvFKwRRbUy1IJm_BXWK-AiDzLOovn4gqCaqAmB8lHINJCW-xDvptwBoMahvxpvHV-GfGfU=w2400"
-        width="100%"
-      />
-      <br />
-      <img
-        src="https://lh3.googleusercontent.com/Pnygp3xNnOvYgHgO9MzQO6-PZDsnWPNFSE-bYfTs9tPLBfStpmLSCbdoqVh3mKtuTO6ZZhWxDsUuJKA8nwxieOu1b3MNYQEn7UT44SgPd5spC5ud2gsgBnjYv72vMLtExbtg2fbDwWo=w2400"
+        src="https://lh3.googleusercontent.com/xrzXgoLLprsC1-xva3moclYh2Cm1xqClB4Kmijx11_yKrrNYPKIuK4jtx-UEngF9UVccfgZtfuIR2-OT_YI2h4baZ0YkJkw8NCbEg3YG_4nBH4A0d23gEk9uONM8fRQb0CwXnaO-Iyw=w2400"
         width="100%"
       />
     </div>

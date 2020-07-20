@@ -49,7 +49,7 @@
     <router-link to="/works/190726">
       <div class="works">
         <img
-          src="https://lh3.googleusercontent.com/VEMrUc_0_E-ec2byFk-MoCpHN4Zhcv825m7fx-mDs0k0tKrzOmURegZ49jfOchBb5QqNqEaYVzh_lV1h-uJORy-Fr-RYmbrQaD44kDd6kXyBwxVDUCDEaBpujp5XiZ45ycXv2cX5Dgw=w2400"
+          src="https://lh3.googleusercontent.com/di8AVOK28cmWEf8TOLcTM6U9-sobSieS903egurIg247Fo8ysa9iXNNV_VjyEUiYhlO4u5Au3-91OBNE9JpW33uATaMb-7h06aChyM5F1LuwPHkEfoC8YZ4yk4PooaGZ79TrO0am_tk=w2400"
           width="100%"
         />
         <div class="mask">
