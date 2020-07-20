@@ -32,7 +32,7 @@
     <router-link to="/works/200215">
       <div class="works">
         <img
-          src="https://lh3.googleusercontent.com/fbKxieZgo7jvN7PGrn-zJZ8ZodGeRxD0txJPogqg8LHtAKNadIhtUYFt9ud7CXasoUlgPZX6dfoliYYdjp3ZcdF8WF538QLI0QoJyGLg6LxC05tTs9y3bGeGPlDFQ75kllFxQ0vjEPI=w2400"
+          src="https://lh3.googleusercontent.com/V-ucQqq4witX_zFnfbxg8rOthy6mv0VGL2GyBv8dw7z8l6EcPGt5jCoSplr2qtca8_GiI_zmLTAxhZ03E9S66SPS1jlnYK01YeChV12HNGCYJjUj4L7uw84Lc8iO2fG22Yy5Up5mfzU=w2400"
           width="100%"
         />
         <div class="mask">
