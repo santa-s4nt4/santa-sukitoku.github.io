@@ -105,15 +105,23 @@
       <p>- Education -</p>
       <div class="aboutCareerSub">
         <p>
-          [2020 - Current]
+          [2020.10 - Current]
           <a
-            href="https://www.kri.sfc.keio.ac.jp/ja/lab/xmusic/"
+            href="https://wakita.sfc.keio.ac.jp/index.html"
+            target="_blank"
+          >Wakita Laboratory</a>,
+          at
+          <a href="https://www.keio.ac.jp/" target="_blank">Keio University</a>
+          <a href="https://www.sfc.keio.ac.jp" target="_blank">SFC</a>
+          <br />[2020.04 - Current]
+          <a
+            href="https://x-music.sfc.keio.ac.jp/"
             target="_blank"
           >x-Music Laboratory</a>,
           at
           <a href="https://www.keio.ac.jp/" target="_blank">Keio University</a>
           <a href="https://www.sfc.keio.ac.jp" target="_blank">SFC</a>
-          <br />[2019 - Current]
+          <br />[2019.04 - Current]
           <a
             href="https://cclab.sfc.keio.ac.jp"
             target="_blank"
@@ -121,8 +129,11 @@
           at
           <a href="https://www.keio.ac.jp/" target="_blank">Keio University</a>
           <a href="https://www.sfc.keio.ac.jp" target="_blank">SFC</a>
-          <br />[2016 - 2019]
-          <a href="https://www.seikyo.ed.jp" target="_blank">Seikyo Gakuen High School</a>
+          <br />[2016.04 - 2019.03]
+          <a
+            href="https://www.seikyo.ed.jp"
+            target="_blank"
+          >Seikyo Gakuen High School</a>
         </p>
       </div>
     </div>
@@ -151,7 +162,7 @@
 
 <script>
 export default {
-  layout: "default_about"
+  layout: "default_about",
 };
 </script>
 <style>
