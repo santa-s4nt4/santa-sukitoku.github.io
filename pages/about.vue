@@ -8,7 +8,7 @@
   <body class="allAbout">
     <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet" />
     <div class="aboutAuthor">
-      <p>Santa is a Tokyo based Visual Programmer.</p>
+      <p>Santa is a Japan based Visual Programmer.</p>
       <div class="aboutLogo">
         <!-- <img
           src="https://lh3.googleusercontent.com/71jjT8idP50_o2ZMNoUDdEAmUgfV2_gMRb32clSqFUGPLgtMIopT-pB4FDhbvuZYh-xLT9fG_cKgcr5GWYIx9piUbKtnjEgbRifenoDzomxQ8y4DmNlw8I155-OUNeAAS2sxRSjFjLA=w2400"
@@ -24,8 +24,11 @@
       <div class="aboutAuthorSub">
         <p>
           Visual Programmer / Visual Jockey / Student
-          <br />ビジュアルパフォーマンス，Visual Jockey，作品制作，写真撮影を行う．
-          <br />2000年大阪府生まれ．長野県育ち．神奈川県在住．
+          <br />ビジュアルパフォーマンス，Visual Jockey，インスタレーション作品制作を行う．
+          <br />2000年大阪府生まれ．長野県/大阪府育ち．神奈川県在住．
+          <br />アートユニット
+          <a href>健康推進委員会</a>
+          として活動している．
         </p>
         <div class="aboutLink">
           <a href="https://twitter.com/santa_sukitoku" target="_blank">
@@ -99,6 +102,12 @@
             target="_blank"
           >Algorave Osaka</a> - Visual
         </p>
+      </div>
+    </div>
+    <div class="aboutCareer">
+      <p>- Exhibitions -</p>
+      <div class="aboutCareerSub">
+        <p>coming soon...</p>
       </div>
     </div>
     <div class="aboutCareer">
