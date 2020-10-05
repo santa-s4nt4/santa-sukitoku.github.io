@@ -1,127 +1,141 @@
 <template>
-<section class="container">
-  <div>
-    <transition name="page">
-      <nuxt />
-    </transition>
-  </div>
-  <body class="all">
-    <router-link to="/works/200816">
-      <div class="works">
-        <img
-          src="https://lh3.googleusercontent.com/Ls_ZkG_ZlmgPDlpF3361hX_l6s7HT1Bm9TnMQameswl5-EednMlMeNYoxA67Q_rTKxViKpUYNKer-iivW9Gc5pdUbB21zYLgmsa4QiLM5RezZHDcYbXHdi_zPo82BvBnAUDgj3P5lfE=w2400"
-          width="100%"
-        />
-        <div class="mask">
-          <div class="caption">
-            <p>LED sync web-site for Save The Metro Compilations</p>
+  <section class="container">
+    <div>
+      <transition name="page">
+        <nuxt />
+      </transition>
+    </div>
+    <body class="all">
+      <router-link to="/works/200925">
+        <div class="works">
+          <img
+            src="https://lh3.googleusercontent.com/eQbzJaZykwFAgN7waDoNyCfEvhJnVbEpV1XTZZKgO06KDK5dp7UXjzCBvzA0EHxKNim5rQ7jPglJndh9Fvz6VCz5Cian-VFPz6fmIJ7Bn_4-1JD8glQqZBN5_Z4I49rRh6WSDf2fGBw=w2400"
+            width="100%"
+          />
+          <div class="mask">
+            <div class="caption">
+              <p>visual system for Playing Tokyo Vol.11</p>
+            </div>
           </div>
         </div>
-      </div>
-    </router-link>
+      </router-link>
 
-    <router-link to="/works/200720">
-      <div class="works">
-        <img
-          src="https://lh3.googleusercontent.com/bs9HzDZ_xWk2T5sA_tm2hkTt4A2YDWmLDRQS0L86FJhQwvm5_UbNPdSTrOp4qt4CODabtK3BgQYt63ukTOhsAhzvsN5XDbWeuFtuJVclqmeZYb9ecEZUzHIYzqbxeXmcZuIy81kK4Zw=w2400"
-          width="100%"
-        />
-        <div class="mask">
-          <div class="caption">
-            <p>logo of santa_sukitoku</p>
+      <router-link to="/works/200816">
+        <div class="works">
+          <img
+            src="https://lh3.googleusercontent.com/Ls_ZkG_ZlmgPDlpF3361hX_l6s7HT1Bm9TnMQameswl5-EednMlMeNYoxA67Q_rTKxViKpUYNKer-iivW9Gc5pdUbB21zYLgmsa4QiLM5RezZHDcYbXHdi_zPo82BvBnAUDgj3P5lfE=w2400"
+            width="100%"
+          />
+          <div class="mask">
+            <div class="caption">
+              <p>LED sync web-site for Save The Metro Compilations</p>
+            </div>
           </div>
         </div>
-      </div>
-    </router-link>
+      </router-link>
 
-    <router-link to="/works/200718">
-      <div class="works">
-        <img
-          src="https://lh3.googleusercontent.com/PMH-SlwKA70K1SXu5FTDolkKzmGps-EcTueBhsx76H-RgHL7oYw73tejsxE3iQPv6WjjkCefazmv10TD3OG_eEKGt8vqXg7RWkD-9-J4GtY5ke9oqN9ESWXHA3_P-tZBPk5JUjZ_zV4=w2400"
-          width="100%"
-        />
-        <div class="mask">
-          <div class="caption">
-            <p>-14&#x2103;</p>
+      <router-link to="/works/200720">
+        <div class="works">
+          <img
+            src="https://lh3.googleusercontent.com/bs9HzDZ_xWk2T5sA_tm2hkTt4A2YDWmLDRQS0L86FJhQwvm5_UbNPdSTrOp4qt4CODabtK3BgQYt63ukTOhsAhzvsN5XDbWeuFtuJVclqmeZYb9ecEZUzHIYzqbxeXmcZuIy81kK4Zw=w2400"
+            width="100%"
+          />
+          <div class="mask">
+            <div class="caption">
+              <p>logo of santa_sukitoku</p>
+            </div>
           </div>
         </div>
-      </div>
-    </router-link>
+      </router-link>
 
-    <router-link to="/works/200627">
-      <div class="works">
-        <img
-          src="https://lh3.googleusercontent.com/QlnS59pO3nq3EMc_0q-hpX5Wn1D7lp1MW5DJRh--4_9znb8H0hj7mkpwPUuxFNxsjX5Vr_QlbXZfrJJfeUgiNpQPralPsCRv2FjeMeiigNeu-ia_Zh5S3ypihA_gIzeSjfPv5qjNrrs=w2400"
-          width="100%"
-        />
-        <div class="mask">
-          <div class="caption">
-            <p>visual system for Save The Metro Compilations</p>
+      <router-link to="/works/200718">
+        <div class="works">
+          <img
+            src="https://lh3.googleusercontent.com/PMH-SlwKA70K1SXu5FTDolkKzmGps-EcTueBhsx76H-RgHL7oYw73tejsxE3iQPv6WjjkCefazmv10TD3OG_eEKGt8vqXg7RWkD-9-J4GtY5ke9oqN9ESWXHA3_P-tZBPk5JUjZ_zV4=w2400"
+            width="100%"
+          />
+          <div class="mask">
+            <div class="caption">
+              <p>-14&#x2103;</p>
+            </div>
           </div>
         </div>
-      </div>
-    </router-link>
+      </router-link>
 
-    <router-link to="/works/200423">
-      <div class="works">
-        <img
-          src="https://lh3.googleusercontent.com/FV7YiZEtLCJn5G1p03YqVo34wZ-YMrUWaVvAQgnC82nzU0DJeUXcGLhUQTPqKgcmO9mHKDigO2mZRZ3Wg1xfe05asawq98wb7zpz_36-X9ZROTBykEs_I2gZn8Qh0A-ca5Xyb9lZF1E=w2400"
-          width="100%"
-        />
-        <div class="mask">
-          <div class="caption">
-            <p>Optimize Heartbeat by Music</p>
+      <router-link to="/works/200627">
+        <div class="works">
+          <img
+            src="https://lh3.googleusercontent.com/QlnS59pO3nq3EMc_0q-hpX5Wn1D7lp1MW5DJRh--4_9znb8H0hj7mkpwPUuxFNxsjX5Vr_QlbXZfrJJfeUgiNpQPralPsCRv2FjeMeiigNeu-ia_Zh5S3ypihA_gIzeSjfPv5qjNrrs=w2400"
+            width="100%"
+          />
+          <div class="mask">
+            <div class="caption">
+              <p>visual system for Save The Metro Compilations</p>
+            </div>
           </div>
         </div>
-      </div>
-    </router-link>
+      </router-link>
 
-    <router-link to="/works/200418">
-      <div class="works">
-        <img
-          src="https://lh3.googleusercontent.com/1bmmevq6zXlreMCcBV9IbMaL1qm_-uCN1reOcQVly0-AoCJFKp7JlPBbFiJ6U7W0AoBoejQHI4Nk6KBhaIysqk3v6ewC0Yxya86gnWJFYVwNIvinULjtUb32tM3_YfkHU2PkWn90E5Q=w2400"
-          width="100%"
-        />
-        <div class="mask">
-          <div class="caption">
-            <p>visual system for x-Music Online vol.0.0</p>
+      <router-link to="/works/200423">
+        <div class="works">
+          <img
+            src="https://lh3.googleusercontent.com/FV7YiZEtLCJn5G1p03YqVo34wZ-YMrUWaVvAQgnC82nzU0DJeUXcGLhUQTPqKgcmO9mHKDigO2mZRZ3Wg1xfe05asawq98wb7zpz_36-X9ZROTBykEs_I2gZn8Qh0A-ca5Xyb9lZF1E=w2400"
+            width="100%"
+          />
+          <div class="mask">
+            <div class="caption">
+              <p>Optimize Heartbeat by Music</p>
+            </div>
           </div>
         </div>
-      </div>
-    </router-link>
+      </router-link>
 
-    <router-link to="/works/200215">
-      <div class="works">
-        <img
-          src="https://lh3.googleusercontent.com/V-ucQqq4witX_zFnfbxg8rOthy6mv0VGL2GyBv8dw7z8l6EcPGt5jCoSplr2qtca8_GiI_zmLTAxhZ03E9S66SPS1jlnYK01YeChV12HNGCYJjUj4L7uw84Lc8iO2fG22Yy5Up5mfzU=w2400"
-          width="100%"
-        />
-        <div class="mask">
-          <div class="caption">
-            <p>visual system for Algorave Tokyo</p>
+      <router-link to="/works/200418">
+        <div class="works">
+          <img
+            src="https://lh3.googleusercontent.com/1bmmevq6zXlreMCcBV9IbMaL1qm_-uCN1reOcQVly0-AoCJFKp7JlPBbFiJ6U7W0AoBoejQHI4Nk6KBhaIysqk3v6ewC0Yxya86gnWJFYVwNIvinULjtUb32tM3_YfkHU2PkWn90E5Q=w2400"
+            width="100%"
+          />
+          <div class="mask">
+            <div class="caption">
+              <p>visual system for x-Music Online vol.0.0</p>
+            </div>
           </div>
         </div>
-      </div>
-    </router-link>
+      </router-link>
 
-    <router-link to="/works/200117">
-      <div class="works">
-        <img
-          src="https://lh3.googleusercontent.com/2SdUua1t9uqJIEq7gI5KWXn4exLleO1vXCEivR9EychlPxvjaXSJec_1SDhT2RjT9B5zesCHck8uCZ95wM2z58S1gjxCVCJjbuIbzlLk6B9ereHRaHMfX1lPs_Sh7A8ivKEHpwlKdkw=w2400"
-          width="100%"
-        />
-        <div class="mask">
-          <div class="caption">
-            <p>
-              Computer Music2 final work
-              <br />"draw2sound"
-            </p>
+      <router-link to="/works/200215">
+        <div class="works">
+          <img
+            src="https://lh3.googleusercontent.com/V-ucQqq4witX_zFnfbxg8rOthy6mv0VGL2GyBv8dw7z8l6EcPGt5jCoSplr2qtca8_GiI_zmLTAxhZ03E9S66SPS1jlnYK01YeChV12HNGCYJjUj4L7uw84Lc8iO2fG22Yy5Up5mfzU=w2400"
+            width="100%"
+          />
+          <div class="mask">
+            <div class="caption">
+              <p>visual system for Algorave Tokyo</p>
+            </div>
           </div>
         </div>
-      </div>
-    </router-link>
-  </body>
-</section>
+      </router-link>
+
+      <router-link to="/works/200117">
+        <div class="works">
+          <img
+            src="https://lh3.googleusercontent.com/2SdUua1t9uqJIEq7gI5KWXn4exLleO1vXCEivR9EychlPxvjaXSJec_1SDhT2RjT9B5zesCHck8uCZ95wM2z58S1gjxCVCJjbuIbzlLk6B9ereHRaHMfX1lPs_Sh7A8ivKEHpwlKdkw=w2400"
+            width="100%"
+          />
+          <div class="mask">
+            <div class="caption">
+              <p>
+                Computer Music2 final work
+                <br />"draw2sound"
+              </p>
+            </div>
+          </div>
+        </div>
+      </router-link>
+    </body>
+  </section>
 </template>
 
 <script>
