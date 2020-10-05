@@ -69,7 +69,7 @@
           <p>
             [2020.09]
             <a
-              href="https://metro-streaming.com/2020/06/20/save-the-metro-compilations-curated-by-kenichi-itoi/"
+              href="https://twitter.com/rhizomatiks/status/1308730110661414912?s=20"
               target="_blank"
               >Playing Tokyo Vol.11</a
             >
