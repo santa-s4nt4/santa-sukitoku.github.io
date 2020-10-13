@@ -164,6 +164,12 @@
         <p>- Work Experiences -</p>
         <div class="aboutCareerSub">
           <p>
+            [2020.10 - Current]
+            <a href="https://dentsucraft.tokyo/" target="_blank"
+              >Dentsu Craft Tokyo</a
+            >
+            internship
+            <br />
             [2019.06 - 2019.10]
             <a href="https://nepps.jp" target="_blank">Nepps</a> Mentor
             <br />[2019.01 - 2019.03]
