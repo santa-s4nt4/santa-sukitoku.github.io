@@ -123,6 +123,17 @@ a:hover {
     min-width: 90px;
 }
 
+.siteTitle {
+    .site-title {
+        background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
+        background-size: 600% 600%;
+        animation: gradientBG 4s ease infinite;
+        color: #ffffff;
+        text-decoration: none;
+        border-bottom: 0px;
+    }
+}
+
 .siteTitle a {
     padding-left: 2.4%;
     padding-right: 2.4%;

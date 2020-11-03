@@ -20,20 +20,6 @@
         </div>
       </router-link>
 
-      <router-link to="/works/200816">
-        <div class="works">
-          <img
-            src="https://lh3.googleusercontent.com/Ls_ZkG_ZlmgPDlpF3361hX_l6s7HT1Bm9TnMQameswl5-EednMlMeNYoxA67Q_rTKxViKpUYNKer-iivW9Gc5pdUbB21zYLgmsa4QiLM5RezZHDcYbXHdi_zPo82BvBnAUDgj3P5lfE=w2400"
-            width="100%"
-          />
-          <div class="mask">
-            <div class="caption">
-              <p>LED sync web-site for Save The Metro Compilations</p>
-            </div>
-          </div>
-        </div>
-      </router-link>
-
       <router-link to="/works/200720">
         <div class="works">
           <img
