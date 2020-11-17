@@ -28,7 +28,7 @@
           />
           <div class="mask">
             <div class="caption">
-              <p>logo of santa_sukitoku</p>
+              <p>logo of santa_s4nt4</p>
             </div>
           </div>
         </div>

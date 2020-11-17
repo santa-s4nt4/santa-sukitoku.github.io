@@ -32,10 +32,10 @@
             <br />2000年大阪府生まれ．長野県/大阪府育ち．神奈川県在住．
           </p>
           <div class="aboutLink">
-            <a href="https://twitter.com/santa_sukitoku" target="_blank">
+            <a href="https://twitter.com/santa_s4nt4" target="_blank">
               <i class="fab fa-twitter"></i>
             </a>
-            <a href="https://github.com/santa-sukitoku" target="_blank">
+            <a href="https://github.com/santa-s4nt4" target="_blank">
               <i class="fab fa-github"></i>
             </a>
             <a href="https://soundcloud.com/santa-n" target="_blank">
@@ -47,7 +47,7 @@
             >
               <i class="fab fa-spotify"></i>
             </a>
-            <a href="https://www.instagram.com/santa_sukitoku/" target="_blank">
+            <a href="https://www.instagram.com/santa_s4nt4/" target="_blank">
               <i class="fab fa-instagram"></i>
             </a>
           </div>

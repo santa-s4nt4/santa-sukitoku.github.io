@@ -62,7 +62,7 @@
           >
           <br />Source Code :
           <a
-            href="https://github.com/santa-sukitoku/playingTokyo200925"
+            href="https://github.com/santa-s4nt4/playingTokyo200925"
             target="_blank"
             >GitHub</a
           >
