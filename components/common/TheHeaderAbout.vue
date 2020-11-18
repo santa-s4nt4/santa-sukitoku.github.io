@@ -16,7 +16,7 @@
           <router-link to="/">Works</router-link>
         </li>
         <li>
-          <a href="https://sukitoku.hatenablog.com/archive" target="_blank">Diary</a>
+          <a href="http://diary.s4nt4.graphics" target="_blank">Diary</a>
         </li>
       </ul>
     </div>
