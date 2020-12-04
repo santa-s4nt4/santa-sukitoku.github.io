@@ -5,22 +5,6 @@
         <p>- visual system for x-Music Online vol.0.0 -</p>
       </div>
       <div class="content">
-        <p>- gallery -</p>
-        <!--
-          <div class="video">
-        <iframe
-          width="100%"
-          src="https://www.youtube.com/embed/jUwbr3d6jvk?color=white"
-          frameborder="0"
-          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
-        ></iframe>
-        <br />
-      </div>
-      <mark>performance video (coming soon...)</mark>
-      <br />
-      <br />
-      -->
         <img
           class="magnifiable"
           src="https://lh3.googleusercontent.com/VqckkxFv4IPJqme8d_W2N753ngOY-sGXqU7z3WTxhrWWKmPvQxrgseLh-vx1IRAGJpMbE41uEDwCRJvt6gfhMo1D8Z2sS1110KNnVb_wjgM52x2FBMPh6sSKZbFwcwqK-1gFdeWF0GI=w2400"

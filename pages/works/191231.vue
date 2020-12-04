@@ -5,7 +5,6 @@
         <p>- best photographs of 2019 -</p>
       </div>
       <div class="content">
-        <p>- gallery -</p>
         <img
           src="https://lh3.googleusercontent.com/7oSynJ6m3WrDY9WR7a5GsIpo8mdKYX5LQBrYgE0q8K3bw_go7vPMYNs_QWXXLarm9Yfi94KbgszuoM82_9HpWc7lVAB9fQYjhzMtebsrOjRwK_QHd-7MYV6_t7_X67xmJfx0ooJukBk=w2400"
           width="100%"

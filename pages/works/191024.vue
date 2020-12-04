@@ -5,7 +5,6 @@
         <p>- visual system for SFC Creative Week -</p>
       </div>
       <div class="content">
-        <p>- gallery -</p>
         <div class="video">
           <iframe
             width="100%"

@@ -5,7 +5,6 @@
         <p>- Optimize Heartbeat by Music -</p>
       </div>
       <div class="content">
-        <p>- gallery -</p>
         <div class="video">
           <iframe
             width="100%"

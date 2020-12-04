@@ -5,8 +5,6 @@
         <p>- visual system for Playing Tokyo Vol.11 -</p>
       </div>
       <div class="content">
-        <p>- gallery -</p>
-
         <img
           class="magnifiable"
           src="https://lh3.googleusercontent.com/eQbzJaZykwFAgN7waDoNyCfEvhJnVbEpV1XTZZKgO06KDK5dp7UXjzCBvzA0EHxKNim5rQ7jPglJndh9Fvz6VCz5Cian-VFPz6fmIJ7Bn_4-1JD8glQqZBN5_Z4I49rRh6WSDf2fGBw=w2400"

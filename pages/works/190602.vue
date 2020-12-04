@@ -5,7 +5,6 @@
         <p>- visual system for SourceCord Vol.3 & SFC X-Music DJ Night -</p>
       </div>
       <div class="content">
-        <p>- gallery -</p>
         <blockquote class="twitter-tweet">
           <p lang="hi" dir="ltr">
             Shintaro Kamijyo - Santa

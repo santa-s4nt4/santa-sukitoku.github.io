@@ -5,7 +5,6 @@
         <p>- Computer Music2 final work "draw2sound" -</p>
       </div>
       <div class="content">
-        <p>- gallery -</p>
         <div class="video">
           <iframe
             width="100%"
