@@ -13,11 +13,6 @@
       <div class="aboutAuthor">
         <p>Santa is a Japan based Visual Programmer.</p>
         <div class="aboutLogo">
-          <!-- <img
-          src="https://lh3.googleusercontent.com/71jjT8idP50_o2ZMNoUDdEAmUgfV2_gMRb32clSqFUGPLgtMIopT-pB4FDhbvuZYh-xLT9fG_cKgcr5GWYIx9piUbKtnjEgbRifenoDzomxQ8y4DmNlw8I155-OUNeAAS2sxRSjFjLA=w2400"
-          alt="logo"
-          width="300px"
-        />-->
           <img
             src="https://lh3.googleusercontent.com/H8hTW_6WSYS-3MTy4jnQQmxfTbSO83rxrLYMdtYXDumwS25VhIzWUS8yzQPuCfLiSxArQgj6ZzcnyP-T_N-e6GKhb3RLHG-4yapkAP9xihTHGQ_m28c-fOYll8E2oWA6kKB0o3p3a7g=w2400"
             alt="profile"
@@ -121,6 +116,25 @@
       </div>
       <div class="aboutCareer">
         <p>- Exhibitions -</p>
+        <div class="aboutCareerSub">
+          <p>
+            [2020.12]
+            <a
+              href="https://cclab.sfc.keio.ac.jp/projects/x-visual-holarchy/"
+              target="_blank"
+              >holarchy</a
+            >
+            at
+            <a
+              href="https://sa2020.siggraph.org/en/attend/art-gallery/session_slot/191/2"
+              >SIGGRAPH ASIA 2020 ART GALLERY</a
+            >
+            - Frontend
+          </p>
+        </div>
+      </div>
+      <div class="aboutCareer">
+        <p>- Awards -</p>
         <div class="aboutCareerSub">
           <p>coming soon...</p>
         </div>
