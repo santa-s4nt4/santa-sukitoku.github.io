@@ -54,7 +54,7 @@
       </div>
       <div class="itemSub">
         <p>
-          使用技術 : TouchDesigner
+          Tool : TouchDesigner
           <br />Link :
           <a
             href="https://santa-sukitoku.github.io/santa-diary/posts/sourcecord_3/"

@@ -49,7 +49,7 @@
       </div>
       <div class="itemSub">
         <p>
-          使用技術 : TouchDesigner / GLSL
+          Tool : TouchDesigner / GLSL
           <br />Link :
           <a href="#" target="_blank">SFC Creative Week</a>
           <br />Source Code :

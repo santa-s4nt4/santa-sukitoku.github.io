@@ -44,7 +44,7 @@
       </div>
       <div class="itemSub">
         <p>
-          使用技術 : TouchDesigner / GLSL
+          Tool : TouchDesigner / GLSL
           <br />Sound :
           <a href="https://naotokui.net/" target="_blank">Nao Tokui</a
           >&nbsp;/&nbsp;<a

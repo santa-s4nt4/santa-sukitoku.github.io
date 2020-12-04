@@ -56,8 +56,7 @@
       </div>
       <div class="itemSub">
         <p>
-          使用技術 : Max for Live (Max 8) / Ableton Live 10 / Arduino / ORPHE
-          TRACK
+          Tool : Max for Live (Max 8) / Ableton Live 10 / Arduino / ORPHE TRACK
           <br />Link :
           <a href="https://youtu.be/eG2a64GT82E" target="_blank"
             >Optimize Heartbeat by Music - demo movie</a

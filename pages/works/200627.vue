@@ -39,7 +39,7 @@
       </div>
       <div class="itemSub">
         <p>
-          使用技術 : TouchDesigner / GLSL
+          Tool : TouchDesigner / GLSL
           <br />Sound :
           <a
             href="http://www.hiramatsutoshiyuki.com/index/HIRAMATSU_TOSHIYUKI.html"

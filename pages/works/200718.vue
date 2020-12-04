@@ -24,7 +24,7 @@
       </div>
       <div class="itemSub">
         <p>
-          使用技術 : Ableton Live 10
+          Tool : Ableton Live 10
           <br />Link :
           <a href="https://soundcloud.com/santa-n/14a" target="_blank"
             >SoundCloud</a

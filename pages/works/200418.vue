@@ -41,7 +41,7 @@
       </div>
       <div class="itemSub">
         <p>
-          使用技術 : TouchDesigner / GLSL
+          Tool : TouchDesigner / GLSL
           <br />Sound :
           <a href="https://twitter.com/cclab_sfc" target="_blank"
             >Computational Creativity Lab</a
