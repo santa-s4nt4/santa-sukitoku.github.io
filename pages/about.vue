@@ -136,7 +136,17 @@
       <div class="aboutCareer">
         <p>- Awards -</p>
         <div class="aboutCareerSub">
-          <p>coming soon...</p>
+          <p>
+            [2020.12]
+            <a
+              href="https://kc-i.jp/activity/award/isca/2020/#content"
+              target="_blank"
+              >ISCA Wonderland 2020</a
+            >&nbsp;/&nbsp;<router-link to="/works/200423"
+              >Sonic-Aquarium</router-link
+            >
+            - 入賞
+          </p>
         </div>
       </div>
       <div class="aboutCareer">
