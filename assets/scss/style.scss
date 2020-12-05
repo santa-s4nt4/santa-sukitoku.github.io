@@ -1,5 +1,7 @@
 @charset "utf-8";
 
+@import url("https://use.typekit.net/suw5khs.css");
+
 @import '_variables';
 @import '_base';
 
@@ -53,7 +55,7 @@ footer {
 }
 
 .footer {
-    font-family: futura-pt-light, sans-serif;
+    font-family: futura-pt, sans-serif;
     font-size: 14px;
     font-weight: 100;
     font-style: normal;
@@ -107,7 +109,7 @@ a:hover {
 
 .menu li {
     text-align: right;
-    font-family: futura-pt-light, sans-serif;
+    font-family: futura-pt, sans-serif;
     font-size: 22px;
     font-weight: 200;
     font-style: normal;
@@ -150,7 +152,7 @@ a:hover {
 .siteTitle ul li {
     min-width: 0px;
     float: left;
-    font-family: futura-pt-light, sans-serif;
+    font-family: futura-pt, sans-serif;
     font-size: 22px;
     font-weight: 200;
     font-style: normal;
@@ -158,7 +160,7 @@ a:hover {
 
 .year li {
     text-align: left;
-    font-family: futura-pt-light, sans-serif;
+    font-family: futura-pt, sans-serif;
     font-size: 20px;
     font-weight: 100;
     font-style: normal;
@@ -198,7 +200,7 @@ a:hover {
 
 .category li {
     text-align: left;
-    font-family: futura-pt-light, sans-serif;
+    font-family: futura-pt, sans-serif;
     font-size: 18px;
     font-weight: 100;
     font-style: normal;
@@ -234,7 +236,7 @@ a:hover {
 }
 
 .aboutAuthor p {
-    font-family: futura-pt-light, sans-serif;
+    font-family: futura-pt, sans-serif;
     font-size: 22px;
     font-weight: 100;
     font-style: normal;
@@ -254,7 +256,7 @@ a:hover {
 }
 
 .aboutCareer {
-    font-family: futura-pt-light, sans-serif;
+    font-family: futura-pt, sans-serif;
     font-size: 20px;
     font-weight: 200;
     font-style: normal;
@@ -276,8 +278,8 @@ a:hover {
 
 .works .caption p {
     text-align: center;
-    font-family: futura-pt-light, sans-serif;
-    font-size: 22px;
+    font-family: futura-pt, sans-serif;
+    font-size: 24px;
     font-weight: 200;
     font-style: normal;
     color: #ffffff;
@@ -314,7 +316,7 @@ a:hover {
 }
 
 .allContent p {
-    font-family: futura-pt-light, sans-serif;
+    font-family: futura-pt, sans-serif;
     font-size: 22px;
     font-weight: 200;
     font-style: normal;
