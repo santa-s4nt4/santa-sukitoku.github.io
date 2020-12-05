@@ -71,7 +71,7 @@
         </p>
         <div class="members">
           <p>
-            Members :
+            Credit :
             <br />- Momoha Matsuhashi : Hardware <br />- Miku Fujimoto : Sound
             Design <br />- Santa : Program
           </p>

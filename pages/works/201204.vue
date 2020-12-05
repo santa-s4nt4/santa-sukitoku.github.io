@@ -70,7 +70,7 @@
         </p>
         <div class="members">
           <p>
-            Members :
+            Credit :
             <br />- Ayaka Sakakibara : Plan / Sound Design <br />- Santa :
             Visualize / System
           </p>

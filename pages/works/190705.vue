@@ -27,9 +27,11 @@
           慶應義塾大学SFCの授業であるコンピュータミュージック1の課題．
           <br />生活のいたるところにある"箱"は人の生活に寄り添い，普段，音楽として認識していないモノを音楽として認識させる．
           <br />
-          <br />- Leader : Makito Kamiishi <br />- Sound Programmer, Video
-          Editing : あっぷるささき <br />- Sensor Engineer : Santa <br />-
-          Product Designer : Masaki
+          <br />
+          Credit :
+          <br />- Makito Kamiishi : Leader<br />- あっぷるささき : Sound
+          Programmer / Video Editing <br />- Santa : Sensor Engineer<br />-
+          Masaki Chonan : Product Designer
         </p>
       </div>
       <div class="itemSub">
