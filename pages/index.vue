@@ -6,6 +6,20 @@
       </transition>
     </div>
     <body class="all">
+      <router-link to="/works/201204">
+        <div class="works">
+          <img
+            src="https://lh3.googleusercontent.com/UJNk3djFAmUrpogJ1gpFIzeilvNJz-G-7cLE9qQDyAGhDUen7Aslu1c4q22mGy5UNylVnzH2fV7EqPbdVPDRS9C6COlWlcW-aPCI_I71CaIExmsuW6gdh5aTBZBMxjoikjFKtG0Hpi0=w2400"
+            width="100%"
+          />
+          <div class="mask">
+            <div class="caption">
+              <p>Sonic-Aquarium-v1</p>
+            </div>
+          </div>
+        </div>
+      </router-link>
+
       <router-link to="/works/200925">
         <div class="works">
           <img
