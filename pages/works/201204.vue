@@ -66,13 +66,14 @@
             target="_blank"
             >ISCA Wonderland 2020</a
           >
+          - 入賞
           <br />
         </p>
         <div class="members">
           <p>
             Credit :
-            <br />- Ayaka Sakakibara : Plan / Sound Design <br />- Santa :
-            Visualize / System
+            <br />- Ayaka Sakakibara : Planning / Sound Design <br />- Santa :
+            Visualization System / Detection System
           </p>
         </div>
       </div>
