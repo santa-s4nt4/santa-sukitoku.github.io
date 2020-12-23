@@ -123,13 +123,13 @@
               href="https://sa2020.siggraph.org/en/attend/art-gallery/session_slot/191/2"
               >SIGGRAPH ASIA 2020 ART GALLERY</a
             >
-            &nbsp;/&nbsp;
+            /
             <a
               href="https://cclab.sfc.keio.ac.jp/projects/x-visual-holarchy/"
               target="_blank"
               >holarchy</a
             >
-            - Frontend
+            - Front-end
           </p>
         </div>
       </div>

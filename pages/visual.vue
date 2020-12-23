@@ -1,6 +1,20 @@
 <template>
   <section class="container">
     <body class="all">
+      <router-link to="/works/201201">
+        <div class="works">
+          <img
+            src="https://lh3.googleusercontent.com/2Vd2FCzX6jTohOROQOplIOdgCeOMjyFtA2qWpvAFv0hisTNRZXpt-8c09npdSkhKeGPI11pCRWtlLovl82wuM0hyUKCIdRaHPoDGwsGmy9Ee7-Uhf_SfmYiUXqDZnNjXmuGjC8YbYPo=w2400"
+            width="100%"
+          />
+          <div class="mask">
+            <div class="caption">
+              <p>holarchy</p>
+            </div>
+          </div>
+        </div>
+      </router-link>
+
       <router-link to="/works/200925">
         <div class="works">
           <img
