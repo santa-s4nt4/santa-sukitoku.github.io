@@ -23,7 +23,10 @@
     <div class="year">
       <ul>
         <li>
-          <router-link to="/">2020</router-link>
+          <router-link to="/">2021</router-link>
+        </li>
+        <li class="chooseYear">
+          <router-link to="/2020">2020</router-link>
         </li>
         <li class="chooseYear">
           <router-link to="/2019">2019</router-link>
@@ -39,7 +42,7 @@
           <router-link to="/sound">Sound</router-link>
         </li>
         <li>
-          <router-link to="/photo">Photo</router-link>
+          <router-link to="/web">Web</router-link>
         </li>
       </ul>
     </div>

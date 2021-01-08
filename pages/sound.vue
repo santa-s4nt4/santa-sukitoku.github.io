@@ -95,6 +95,13 @@
 </template>
 
 <script>
+export default {
+  head() {
+    return {
+      title: "Sound",
+    };
+  },
+};
 </script>
 
 <style lang="scss" scoped>

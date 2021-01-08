@@ -71,6 +71,20 @@
         </div>
       </router-link>
 
+      <router-link to="/works/191231">
+        <div class="works">
+          <img
+            src="https://lh3.googleusercontent.com/7oSynJ6m3WrDY9WR7a5GsIpo8mdKYX5LQBrYgE0q8K3bw_go7vPMYNs_QWXXLarm9Yfi94KbgszuoM82_9HpWc7lVAB9fQYjhzMtebsrOjRwK_QHd-7MYV6_t7_X67xmJfx0ooJukBk=w2400"
+            width="100%"
+          />
+          <div class="mask">
+            <div class="caption">
+              <p>best photographs of 2019</p>
+            </div>
+          </div>
+        </div>
+      </router-link>
+
       <router-link to="/works/191024">
         <div class="works">
           <img
@@ -106,6 +120,13 @@
 </template>
 
 <script>
+export default {
+  head() {
+    return {
+      title: "Visual",
+    };
+  },
+};
 </script>
 
 <style lang="scss" scoped>

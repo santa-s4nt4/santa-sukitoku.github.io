@@ -218,6 +218,11 @@
 <script>
 export default {
   layout: "default_about",
+  head() {
+    return {
+      title: "About",
+    };
+  },
 };
 </script>
 <style>
