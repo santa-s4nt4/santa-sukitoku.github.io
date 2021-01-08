@@ -41,7 +41,7 @@
 export default {
   head() {
     return {
-      title: "holarchy",
+      title: "website of x-Music Lab",
     };
   },
 };
