@@ -46,6 +46,13 @@
 </template>
 
 <script>
+export default {
+  head() {
+    return {
+      title: "Computer Music1 group work",
+    };
+  },
+};
 </script>
 
 <style>

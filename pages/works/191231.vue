@@ -134,6 +134,13 @@
 </template>
 
 <script>
+export default {
+  head() {
+    return {
+      title: "best photographs of 2019",
+    };
+  },
+};
 </script>
 
 <style>

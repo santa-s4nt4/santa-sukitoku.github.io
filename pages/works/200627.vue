@@ -69,6 +69,13 @@
 </template>
 
 <script>
+export default {
+  head() {
+    return {
+      title: "visual system for system for Save The Metro Compilations",
+    };
+  },
+};
 </script>
 
 <style>

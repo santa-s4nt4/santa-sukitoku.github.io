@@ -71,6 +71,13 @@
 </template>
 
 <script>
+export default {
+  head() {
+    return {
+      title: "visual system for Algorave Tokyo",
+    };
+  },
+};
 </script>
 
 <style>

@@ -72,6 +72,13 @@
 </template>
 
 <script>
+export default {
+  head() {
+    return {
+      title: "visual system for SourceCord Vol.3 & SFC X-Music DJ Night",
+    };
+  },
+};
 </script>
 
 <style>

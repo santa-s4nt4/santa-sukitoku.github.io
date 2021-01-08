@@ -63,6 +63,13 @@
 </template>
 
 <script>
+export default {
+  head() {
+    return {
+      title: "holarchy",
+    };
+  },
+};
 </script>
 
 <style>

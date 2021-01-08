@@ -63,6 +63,13 @@
 </template>
 
 <script>
+export default {
+  head() {
+    return {
+      title: "visual system for SFC Creative Week",
+    };
+  },
+};
 </script>
 
 <style>

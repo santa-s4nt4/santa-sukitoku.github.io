@@ -71,6 +71,13 @@
 </template>
 
 <script>
+export default {
+  head() {
+    return {
+      title: "visual system for Playing Tokyo Vol.11",
+    };
+  },
+};
 </script>
 
 <style>

@@ -82,6 +82,13 @@
 </template>
 
 <script>
+export default {
+  head() {
+    return {
+      title: "Sonic-Aquarium-v1",
+    };
+  },
+};
 </script>
 
 <style>

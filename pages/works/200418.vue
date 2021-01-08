@@ -63,6 +63,13 @@
 </template>
 
 <script>
+export default {
+  head() {
+    return {
+      title: "visual system for x-Music Online vol.0.0",
+    };
+  },
+};
 </script>
 
 <style>

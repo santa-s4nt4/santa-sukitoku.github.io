@@ -59,6 +59,13 @@
 </template>
 
 <script>
+export default {
+  head() {
+    return {
+      title: "Computer Music2 final work (draw2sound)",
+    };
+  },
+};
 </script>
 
 <style>

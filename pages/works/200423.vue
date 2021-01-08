@@ -82,6 +82,13 @@
 </template>
 
 <script>
+export default {
+  head() {
+    return {
+      title: "Optimize Heartbeat by Music",
+    };
+  },
+};
 </script>
 
 <style>
