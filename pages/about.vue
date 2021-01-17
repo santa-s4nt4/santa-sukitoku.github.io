@@ -162,8 +162,7 @@
             >
             <a href="https://www.sfc.keio.ac.jp" target="_blank">SFC</a>
             <br />[2020.04 - Current]
-            <a href="https://x-music.sfc.keio.ac.jp/" target="_blank"
-              >x-Music Laboratory</a
+            <a href="https://xml.sfc.keio.ac.jp/" target="_blank">x-Music Lab</a
             >, at
             <a href="https://www.keio.ac.jp/" target="_blank"
               >Keio University</a
