@@ -193,7 +193,7 @@
         <p>- Work Experiences -</p>
         <div class="aboutCareerSub">
           <p>
-            [2020.10 - Current]
+            [2021.02]
             <a href="https://www.career.dentsu.jp/intern/w2021/" target="_blank"
               >Dentsu, School of Technology & Idea</a
             >
