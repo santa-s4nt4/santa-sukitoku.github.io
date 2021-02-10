@@ -25,6 +25,11 @@
             <br />ビジュアルパフォーマンス，Visual
             Jockey，インスタレーション作品制作を行う．
             <br />2000年大阪府生まれ．長野県/大阪府育ち．神奈川県在住．
+            <br />趣味は，<a
+              href="https://sauna-ikitai.com/saunners/47946"
+              target="_blank"
+              >サウナ</a
+            >とスキー．
           </p>
           <div class="aboutLink">
             <a href="https://twitter.com/santa_s4nt4" target="_blank">
@@ -121,6 +126,7 @@
             [2020.12]
             <a
               href="https://sa2020.siggraph.org/en/attend/art-gallery/session_slot/191/2"
+              target="_blank"
               >SIGGRAPH ASIA 2020 ART GALLERY</a
             >
             /
@@ -187,6 +193,12 @@
         <p>- Work Experiences -</p>
         <div class="aboutCareerSub">
           <p>
+            [2020.10 - Current]
+            <a href="https://www.career.dentsu.jp/intern/w2021/" target="_blank"
+              >Dentsu, School of Technology & Idea</a
+            >
+            internship
+            <br />
             [2020.10 - Current]
             <a href="https://dentsucraft.tokyo/" target="_blank"
               >Dentsu Craft Tokyo</a
