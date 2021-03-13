@@ -271,6 +271,29 @@ a:hover {
     padding-bottom: 0.5%;
 }
 
+.aboutCareerSub p {
+    margin-top: 0%;
+}
+
+.aboutCareerSub summary {
+    display: block;
+    cursor: pointer;
+    outline: none;
+}
+
+.aboutCareerSub summary:hover {
+    background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
+    background-size: 600% 600%;
+    animation: gradientBG 4s ease infinite;
+    color: #ffffff;
+    text-decoration: none;
+    border-bottom: 0px;
+}
+
+.aboutCareerSub details {
+    transition: 1.5s;
+}
+
 .works {
 	overflow: hidden;
     position: relative;

@@ -66,57 +66,66 @@
       <div class="aboutCareer">
         <p>- Performances -</p>
         <div class="aboutCareerSub">
-          <p>
-            [2020.09]
-            <a
-              href="https://twitter.com/rhizomatiks/status/1308730110661414912?s=20"
-              target="_blank"
-              >Playing Tokyo Vol.11</a
-            >
-            - Visual <br />
-            [2020.06]
-            <a
-              href="https://metro-streaming.com/2020/06/20/save-the-metro-compilations-curated-by-kenichi-itoi/"
-              target="_blank"
-              >METRO 30周年記念配信 -DAY2- Save The Metro Compilations curated
-              by Ken’ichi Itoi</a
-            >
-            - Visual <br />[2020.04]
-            <a
-              href="https://twitter.com/CCLab_SFC/status/1251122493642817538?s=20"
-              target="_blank"
-              >x-Music Online Vol.00</a
-            >
-            - Visual <br />[2020.04]
-            <a
-              href="https://twitter.com/rhizomatiks/status/1245636361731768321?s=20"
-              target="_blank"
-              >Staying Tokyo Vol.00</a
-            >
-            - Visual <br />[2020.02]
-            <a href="http://ochiaisoup.com/?p=3734" target="_blank"
-              >Algorave Tokyo</a
-            >
-            - Visual <br />[2019.10]
-            <router-link to="works/191024">SFC Creative Week</router-link
-            >&nbsp;- Visual <br />[2019.07]
-            <a
-              href="https://sukitoku.hatenablog.com/entry/190617"
-              target="_blank"
-              >X-Music DJ Night</a
-            >
-            - Visual <br />[2019.06]
-            <a href="https://kagurane.com/schedules/view/1156" target="_blank"
-              >SourceCord Vol.3</a
-            >
-            - Visual <br />[2018.11]
-            <a
-              href="http://club-stomp.com/2018/11/09/algorave-osaka/"
-              target="_blank"
-              >Algorave Osaka</a
-            >
-            - Visual
-          </p>
+          <details>
+            <summary>[2020]</summary>
+            <p>
+              [2020.09]
+              <a
+                href="https://twitter.com/rhizomatiks/status/1308730110661414912?s=20"
+                target="_blank"
+                >Playing Tokyo Vol.11</a
+              >
+              - Visual <br />
+              [2020.06]
+              <a
+                href="https://metro-streaming.com/2020/06/20/save-the-metro-compilations-curated-by-kenichi-itoi/"
+                target="_blank"
+                >METRO 30周年記念配信 -DAY2- Save The Metro Compilations curated
+                by Ken’ichi Itoi</a
+              >
+              - Visual <br />[2020.04]
+              <a
+                href="https://twitter.com/CCLab_SFC/status/1251122493642817538?s=20"
+                target="_blank"
+                >x-Music Online Vol.00</a
+              >
+              - Visual <br />[2020.04]
+              <a
+                href="https://twitter.com/rhizomatiks/status/1245636361731768321?s=20"
+                target="_blank"
+                >Staying Tokyo Vol.00</a
+              >
+              - Visual <br />[2020.02]
+              <a href="http://ochiaisoup.com/?p=3734" target="_blank"
+                >Algorave Tokyo</a
+              >
+              - Visual
+            </p>
+          </details>
+          <details>
+            <summary>[2019]</summary>
+            <p>
+              [2019.10]
+              <router-link to="works/191024">SFC Creative Week</router-link
+              >&nbsp;- Visual <br />[2019.07]
+              <a
+                href="https://sukitoku.hatenablog.com/entry/190617"
+                target="_blank"
+                >X-Music DJ Night</a
+              >
+              - Visual <br />[2019.06]
+              <a href="https://kagurane.com/schedules/view/1156" target="_blank"
+                >SourceCord Vol.3</a
+              >
+              - Visual <br />[2018.11]
+              <a
+                href="http://club-stomp.com/2018/11/09/algorave-osaka/"
+                target="_blank"
+                >Algorave Osaka</a
+              >
+              - Visual
+            </p>
+          </details>
         </div>
       </div>
       <div class="aboutCareer">
@@ -159,7 +168,7 @@
         <p>- Education -</p>
         <div class="aboutCareerSub">
           <p>
-            [2020.10 - Current]
+            [2020.10 - 2021.03]
             <a href="https://wakita.sfc.keio.ac.jp/index.html" target="_blank"
               >Wakita Laboratory</a
             >, at
@@ -193,6 +202,10 @@
         <p>- Work Experiences -</p>
         <div class="aboutCareerSub">
           <p>
+            [2020.12 - Current]
+            <a href="https://synflux.io/" target="_blank">Synflux</a>
+            internship
+            <br />
             [2021.02]
             <a href="https://www.career.dentsu.jp/intern/w2021/" target="_blank"
               >Dentsu, School of Technology & Idea</a
